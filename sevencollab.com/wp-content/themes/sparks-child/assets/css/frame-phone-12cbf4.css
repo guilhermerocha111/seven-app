@@ -1,0 +1,68 @@
+.custom-slider .frame-phone-12 {
+    margin-top: 40px;
+}
+
+.frame-phone-12 {
+    padding: 0;
+}
+
+.frame-phone-12-custom {
+    width: 258px;
+    height: 524px;
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translateX(-50%);
+    z-index: 2;
+    pointer-events: none;
+}
+
+.frame-phone-12 .owl-item.active.center img {
+    border-radius: 10px;
+}
+
+.frame-phone-12 .owl-item img {
+    border-radius: 3px;
+    box-shadow: 0px 0px 2px rgb(0 0 0 / 20%), 0px -2px 10px rgb(20 49 75 / 25%);
+}
+
+.mkd-frame-slider-holder.frame-phone-12 .mkd-frame-slider .mkd-frame-slide {
+    margin: 10px 18px;
+}
+
+.frame-phone-12.mkd-owl-shortcode-slider .owl-controls .owl-dots .owl-dot.active span {
+    background: #454F67;
+}
+
+.frame-phone-12.mkd-owl-shortcode-slider .owl-controls .owl-dots .owl-dot span {
+    margin: 14px;
+    height: 12px;
+    width: 12px;
+    border: 1px solid #454F67;
+}
+
+.frame-phone-12.mkd-owl-shortcode-slider .owl-controls .owl-dots {
+    display: inline-flex;
+    vertical-align: top;
+    visibility: visible;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.frame-phone-12.mkd-owl-shortcode-slider .owl-controls {
+    margin-top: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+    .frame-phone-12.mkd-owl-shortcode-slider .owl-controls .owl-dots .owl-dot span {
+        margin: 7px 7px !important;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .frame-phone-12.mkd-owl-shortcode-slider .owl-controls .owl-dots .owl-dot span {
+        margin: 7px 4px !important;
+    }
+}
+    

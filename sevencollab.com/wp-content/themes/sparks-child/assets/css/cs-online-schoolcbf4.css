@@ -1,0 +1,40 @@
+/*ONLINE SCHOOL STYLES*/
+
+.page-2022-full-bullets.bullets-no-border .wpb_column:first-child {
+    border-top: none;
+}
+
+.page-2022-bullets.page-2022-full-bullets.bullets-no-border .wpb_column:not(:last-child) .vc_column-inner {
+    border-right: 1px solid #C2C2C2 !important;
+}
+
+.postid-20137 .page-2022-full-bullets .wpb_wrapper {
+    min-width: 500px;
+}
+@media(max-width: 1200px) {
+    .postid-20137 .page-2022-full-bullets .wpb_wrapper {
+        min-width: auto;
+    }
+    .postid-20137 .page-2022-full-bullets .wpb_column:first-child .vc_column-inner {
+        justify-content: flex-start !important;
+    }
+}
+
+.postid-20137 .page-2022-bullets .mkd-iwt-text-holder p {
+    margin-bottom: 24px;
+}
+
+.postid-20137 .page-2022-icon-with-text-list.bullets-start .mkd-iwt-title {
+    margin-bottom: 24px !important;
+}
+
+.postid-20137 .os_value_delivered {
+    text-align: center;
+    color: #05202B;
+    margin-top: 31px;
+    margin-bottom: 0;
+}
+
+.postid-20137 .page-2022-title {
+    padding-top: 38px;
+}

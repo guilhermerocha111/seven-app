@@ -1,0 +1,161 @@
+.mkd-dark-header .mkd-page-header>div:not(.mkd-sticky-header) .mkd-main-menu>ul>li>a,
+.mkd-dark-header.mkd-header-style-on-scroll .mkd-page-header .mkd-main-menu>ul>li>a {
+    color: #05202B;
+}
+
+.mkd-drop-down .second {
+    z-index: 99;
+}
+
+.mkd-drop-down .second .inner ul.right li a {
+    text-align: left;
+}
+
+.mkd-drop-down .narrow .second.right i.mkd-menu-arrow {
+    left: auto;
+    right: 15px;
+    -webkit-transform: translateY(-52%);
+    -moz-transform: translateY(-52%);
+    transform: translateY(-52%);
+}
+
+.mkd-drop-down .second .inner ul li a {
+    color: #6A7285;
+}
+
+.mkd-drop-down .second .inner ul li a.no_link,
+.mkd-drop-down .second .inner ul li:hover a.no_link,
+.mkd-drop-down .second .inner ul li a.no_link:hover  {
+    color: #A1A6B2 !important;
+}
+
+.mkd-drop-down .second .inner ul li a.no_link:hover:before {
+    opacity: 0 !important;
+}
+
+.mkd-drop-down .second .inner ul li.sub ul li a {
+    text-transform: capitalize;
+    letter-spacing: 0;
+    display: block;
+    font-family: Roboto,sans-serif;
+    color: #6A7285;
+    height: auto;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 5px 26px;
+    position: relative;
+    -webkit-transition: color .3s cubic-bezier(.35,.7,.32,.9),background-color .3s cubic-bezier(.35,.7,.32,.9);
+    -moz-transition: color .3s cubic-bezier(.35,.7,.32,.9),background-color .3s cubic-bezier(.35,.7,.32,.9);
+    transition: color .3s cubic-bezier(.35,.7,.32,.9),background-color .3s cubic-bezier(.35,.7,.32,.9);
+}
+
+.mkd-mobile-header .mkd-mobile-nav ul ul {
+    margin-left: 0;
+}
+
+.current-menu-parent > a,
+.current-menu-parent > a i.mkd-menu-arrow,
+.mkd-active-item a.current,
+.mkd-active-item .mobile_arrow,
+.mkd-active-item .current-menu-parent > a,
+.mkd-active-item .current-menu-parent > a i.mkd-menu-arrow,
+.mkd-active-item .current-menu-item > a,
+.mkd-active-item .current-menu-item > a i.mkd-menu-arrow {
+    color: #c01d3d !important;
+}
+
+#sticky-nav-menu-item-21694.current-menu-parent > a,
+#sticky-nav-menu-item-21694.current-menu-parent > a i.mkd-menu-arrow,
+#nav-menu-item-21694.current-menu-parent > a,
+#nav-menu-item-21694.current-menu-parent > a i.mkd-menu-arrow {
+    border-bottom: 3px solid #c01d3d !important;
+}
+
+.mkd-drop-down .narrow .second .inner ul li {
+    width: 246px;
+}
+
+a {
+    -webkit-tap-highlight-color: transparent !important;
+}
+
+.mkd-mobile-logo-wrapper a,
+.mkd-mobile-header .mkd-mobile-nav li {
+    -webkit-tap-highlight-color: transparent !important;
+}
+
+.mkd-mobile-header .mkd-mobile-nav h6 {
+    border-bottom: 1px solid #eaeaea;
+    font-size: 14px;
+    color: #A1A6B2;
+    padding: 9px 0;
+    margin: 0;
+    display: block;
+    position: relative;
+    text-transform: none;
+    line-height: 18px;
+    letter-spacing: 0;
+    font-weight: 400;
+}
+
+.mkd-mobile-header .mkd-mobile-nav .sub_menu a {
+    text-transform: capitalize;
+    color: #6A7285;
+    font-weight: 400;
+}
+
+.mkd-main-menu a,
+.mkd-mobile-header .mkd-mobile-menu-opener a {
+    -webkit-tap-highlight-color: transparent !important;
+}
+
+.mkd-main-menu > ul > li {
+    margin: 0 10px;
+}
+
+@media only screen and (max-width: 1400px) {
+    .mkd-main-menu > ul > li {
+        margin: 0;
+    }
+}
+
+.mkd-drop-down .second .inner ul li a .item_text {
+    padding: 0;
+}
+
+#sticky-nav-menu-item-21253 .second .inner ul li,
+#nav-menu-item-21253 .second .inner ul li {
+    width: 284px;
+}
+
+#sticky-nav-menu-item-14320 .second .inner ul li,
+#nav-menu-item-14320 .second .inner ul li {
+    width: 190px;
+} 
+
+#sticky-nav-menu-item-21694 .second .inner ul li,
+#sticky-nav-menu-item-24719 .second .inner ul li,
+#nav-menu-item-21694 .second .inner ul li,
+#nav-menu-item-24719 .second .inner ul li  {
+    width: 172px;
+} 
+
+#sticky-nav-menu-item-21694 .second .inner ul li ul li,
+#nav-menu-item-21694 .second .inner ul li ul li {
+    width: 206px;
+} 
+
+#sticky-nav-menu-item-21694 .second .inner ul.right li ul,
+#nav-menu-item-21694 .second .inner ul.right li ul {
+    left: -206px;
+}
+
+#text-29 {
+    margin: 0 0 7px;
+}
+
+.footer-title-link a {
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+}

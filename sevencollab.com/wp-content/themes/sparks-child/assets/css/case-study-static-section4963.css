@@ -1,0 +1,104 @@
+.five-icons-section {
+	display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.five-icons-section .fis-item {
+	display: flex;
+	gap: 8px;
+	align-items: center;
+	margin-bottom: 8px;
+}
+
+.five-icons-section .fis-item span {
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 26px;
+}
+
+/* --- */
+
+.case-study-static-section {
+	display: flex;
+	align-items: center;
+	padding: 90px 0;
+	gap: 40px;
+}
+
+.case-study-static-section.cs-revers {
+	flex-direction: row-reverse;
+}
+
+.case-study-static-section .cs-static-section-item:first-child {
+	width: 30%;
+	text-align: left;
+}
+
+.case-study-static-section .cs-static-section-item:last-child {
+	width: 70%;
+}
+
+.case-study-static-section .cs-static-section-header {
+	font-size: 27px;
+	font-weight: 500;
+	line-height: 32px;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+.case-study-static-section .cs-static-section-content {
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 22px;
+	margin-bottom: 24px;
+}
+
+.case-study-static-section .cs-static-section-item img {
+	max-width: 100%;
+}
+
+.case-study-static-section .btn {
+	display: inline-block;
+    text-align: center;
+    width: calc(100% - 40px);
+	max-width: 338px;
+	text-transform: uppercase;
+    color: #05202B;
+    border: 2px solid #05202B;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 500;
+    background-color: transparent;
+    padding: 15px 15px;
+    border-radius: 50px;
+    transition: color .15s ease-out,background-color .15s ease-out,border-color .15s ease-out;
+}
+
+.case-study-static-section .btn:hover {
+    color: #ffffff;
+    border-color: #c01d3d;
+    background-color: #c01d3d;
+}
+
+@media screen and (max-width: 1200px) {
+	.case-study-static-section .cs-static-section-item:first-child {
+		width: 40%;
+	}
+
+	.case-study-static-section .cs-static-section-item:last-child {
+		width: 60%;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.case-study-static-section, .case-study-static-section.cs-revers {
+		flex-direction: column;
+	}
+
+	.case-study-static-section .cs-static-section-item:first-child,
+	.case-study-static-section .cs-static-section-item:last-child {
+		text-align: center;
+		width: 100%;
+	}
+}

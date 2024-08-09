@@ -1,0 +1,44 @@
+.mkd-pagination li {
+    margin: 0 2px 2px;
+}
+
+.mkd-pagination li a,
+.mkd-pagination li.active span {
+    background: transparent;
+    border: none;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-transition: color .3s cubic-bezier(.35,.7,.32,.9),background-color .3s cubic-bezier(.35,.7,.32,.9);
+    -moz-transition: color .3s cubic-bezier(.35,.7,.32,.9),background-color .3s cubic-bezier(.35,.7,.32,.9);
+    transition: color .3s cubic-bezier(.35,.7,.32,.9),background-color .3s cubic-bezier(.35,.7,.32,.9);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 44px;
+    color: #222B47;
+    height: 40px;
+    width: 40px;
+}
+
+.mkd-pagination li a:hover,
+.mkd-pagination li.active span {
+    background: #009ED5;
+    border: none;
+    color: #ffffff;
+}
+
+.mkd-pagination .mkd-pagination-next a,
+.mkd-pagination .mkd-pagination-prev a {
+    background: transparent;
+    border: none;
+    line-height: 40px;
+}
+
+.mkd-pagination .mkd-pagination-next a span,
+.mkd-pagination .mkd-pagination-prev a span {
+    font-size: 23px;
+    line-height: 40px;
+}

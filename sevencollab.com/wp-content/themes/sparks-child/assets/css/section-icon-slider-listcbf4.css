@@ -1,0 +1,116 @@
+.section-icon-slider-desktop {
+    display: block;
+}
+
+.section-icon-slider-mobile {
+    display: none;
+}
+
+.section-icon-slider-list {
+    display: flex;
+}
+
+.sisl-img-block {
+    width: 14%;
+}
+
+.section-icon-slider-list .sisl-first-column,
+.section-icon-slider-list .sisl-second-column {
+    width: 41%;
+    padding: 0 15px;
+}
+
+.section-icon-slider-list .sisl-second-column {
+    padding-top: 50px;
+}
+
+.section-icon-slider-list img {
+    width: 120px;
+    height: 120px;
+}
+
+.section-icon-slider-list .sisl-title {
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 32px;
+    color: #05202B;
+    margin-bottom: 16px;
+}
+
+.section-icon-slider-list ul {
+    margin: 0;
+    padding: 0;
+}
+
+.section-icon-slider-list ul li {
+    position: relative;
+    list-style: none;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    color: #435E69;
+    margin-bottom: 8px;
+}
+
+.section-icon-slider-list ul li .sisl-icon {
+    display: block;
+    box-sizing: border-box;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 6px;
+    border: 2px solid #BE2140;
+    border-radius: 50%;
+}
+
+.section-icon-slider-list ul li .sisl-text {
+    display: block;
+    padding-left: 30px;
+}
+
+.section-icon-slider-list a:hover ul li .sisl-icon {
+    border: 2px solid #009ed5;
+}
+
+.section-icon-slider-list a:hover ul li,
+.section-icon-slider-list a:hover .sisl-title {
+    color: #009ed5;
+}
+
+.custom-separator {
+    text-align: center;
+}
+
+.custom-separator-inside{
+    display: inline-block;
+    border-style: solid;
+    border-color: #BE2140;
+    margin-top: 6px;
+    margin-bottom: 14px;
+    border-width: 0 0 4px;
+    border-bottom-width: 4px;
+    width: 80px;
+}
+
+@media screen and (max-width: 1024px) {
+    .section-icon-slider-list {
+        flex-direction: column;
+    }
+
+    .sisl-img-block,
+    .section-icon-slider-list .sisl-first-column,
+    .section-icon-slider-list .sisl-second-column {
+        width: 100%;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .section-icon-slider-desktop {
+        display: none;
+    }
+
+    .section-icon-slider-mobile {
+        display: block;
+    }
+}

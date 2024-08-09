@@ -1,0 +1,205 @@
+.full-wight-two-columns {
+	display: flex;
+	flex-direction: row;
+  	width: 100%;
+}
+
+.full-wight-two-columns.fwtc-reverse {
+    flex-direction: row-reverse;
+}
+
+.fwtc-col {
+	width: 50%;
+}
+
+.fwtc-col.bg-grey {
+	background: #F7F7F7;
+}
+
+.fwtc-col-inside {
+    padding: 48px 7% 56px;
+    height: 456px;
+}
+
+.fwtc-col-inside.inside-fixed-wight {
+	max-width: 540px;
+	margin: 0 auto;
+}
+
+.fwtc-col.fwtc-col-bg-img {
+	position: relative;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.fwtc-col.bg-grey-color {
+	background-color: #F7F7F7;
+}
+
+.fwtc-col.img-inside-bottom {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.fwtc-col.img-inside-bottom .fwtc-col-inside {
+    padding: 0;
+    height: 560px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.fwtc-col.img-inside-bottom .fwtc-col-inside img {
+    max-width: 100%;
+    height: 100%;
+}
+
+.fwtc-col.images-set .fwtc-col-inside {
+    padding: 0;
+    height: auto;
+}
+
+.fwtc-col.images-set .fwtc-col-inside .images-set-row {
+	display: flex;
+}
+
+.fwtc-col.images-set .fwtc-col-inside .images-set-item {
+    border: 1px solid #ffffff;
+    width: 50%;
+    text-align: center;
+}
+
+.fwtc-col.images-set .fwtc-col-inside img {
+    max-width: 320px;
+    padding: 0;
+}
+
+.fwtc-col .fwtc-title {
+	margin-bottom: 32px;
+	font-weight: 400;
+	font-size: 27px;
+	line-height: 32px;
+	color: #05202B;
+}
+
+.fwtc-col .fwtc-title span {
+	font-weight: 500;
+}
+
+.fwtc-col .fwtc-desc p {
+    margin-bottom: 32px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #05202B;
+    margin-top: 0;
+}
+
+.fwtc-col .fwtc-desc p:last-child {
+	margin-bottom: 0;
+}
+
+.fwtc-col .fwtc-desc .fwtc-desc-author {
+    font-weight: 300;
+    font-size: 13px;
+    position: relative;
+    bottom: 2px;
+    left: 10px;
+    letter-spacing: 1px;
+}
+
+.fwtc-desc.fwtc-desc-white p {
+	color: #ffffff;
+}
+
+.fwtc-align-bottom p {
+	position: absolute;
+    bottom: 48px;
+	max-width: 540px;
+}
+
+.fwtc-col .fwtc-desc ul {
+    list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.fwtc-col .fwtc-desc ul li {
+	position: relative;
+    margin-bottom: 12px;
+    padding-left: 50px;
+    font-weight: 500;
+	font-size: 18px;
+	line-height: 32px;
+	color: #05202B;
+}
+
+.fwtc-col .fwtc-desc ul li::before {
+    background: url(https://sevencollab.com/wp-content/uploads/2022/10/confident_48-1.svg);
+    width: 32px;
+    height: 32px;
+    content: '';
+    position: absolute;
+    top: 0px;
+    left: 3px;
+    background-size: contain;
+}
+
+@media screen and (max-width: 1400px) {
+	.fwtc-align-bottom p {
+		margin: 0 7% 0 0;
+	}
+
+	.fwtc-col.images-set .fwtc-col-inside img {
+	    max-width: 100%;
+	    padding: 10px 0;
+	}
+}
+
+@media screen and (max-width: 1200px) {
+	.fwtc-col-inside {
+	    height: auto;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.fwtc-col.img-inside-bottom .fwtc-col-inside {
+	    height: auto;
+	}
+
+	.fwtc-col.images-set .fwtc-col-inside img {
+	    max-width: 100%;
+	    padding: 44px 0;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.full-wight-two-columns {
+		flex-direction: column;
+	}
+
+	.full-wight-two-columns.fwtc-reverse {
+	    flex-direction: column;
+	}
+
+	.fwtc-col {
+		width: 100%;
+	}
+
+	.fwtc-col.images-set .fwtc-col-inside img {
+	    max-width: 100%;
+	    padding: 0;
+	}
+
+	.fwtc-col-inside {
+	    min-height: 350px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.fwtc-col-inside {
+	    min-height: 240px;
+	}
+}

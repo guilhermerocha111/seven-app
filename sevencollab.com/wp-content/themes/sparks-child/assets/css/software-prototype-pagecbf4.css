@@ -1,0 +1,44 @@
+/*Call Block*/
+.call-block.first-call-block {
+    background-size: cover;
+    position: relative;
+}
+
+.call-block.first-call-block .mkd-st-title {
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #FFFFFF;
+    margin: 0;
+    margin-bottom: 16px !important;
+}
+
+.call-block.first-call-block .sg-show-popup {
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 500;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 14px 96px;
+    border-radius: 50px;
+    transition: color .15s ease-out,background-color .15s ease-out,border-color .15s ease-out;
+}
+
+.call-block.first-call-block .sg-show-popup:hover {
+    color: #ffffff;
+    border-color: #c01d3d;
+    background-color: #c01d3d;
+}
+
+.services-columns p {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    color: #05202B;
+    margin: 0;
+}
+
+.services-columns .mkd-iwt.mkd-iwt-icon-left .mkd-iwt-title-holder .mkd-iwt-title {
+    margin-bottom: 16px;
+}

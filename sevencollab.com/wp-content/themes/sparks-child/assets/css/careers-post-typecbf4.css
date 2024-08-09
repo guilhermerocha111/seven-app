@@ -1,0 +1,27 @@
+.type-careers .custom-social-block {
+	display: none;
+}
+.career-header-section {
+	height: 616px;
+	display: flex;
+    align-items: center;
+}
+.career-header-section .mkd-full-section-inner {
+	width: 100%;
+}
+.career-header-section .text-section .career-title {
+    font-size: 56px;
+    line-height: 72px;
+    font-weight: 500;
+    color: #fff;
+    margin-bottom: 24px !important;
+}
+.career-header-section .text-section .career-subtitle {
+	font-size: 18px;
+    font-weight: 300;
+    padding: 2px 4px;
+    line-height: 30px;
+    color: #ffffff;
+    background-color: #c01d3d;
+    display: inline-block;
+}

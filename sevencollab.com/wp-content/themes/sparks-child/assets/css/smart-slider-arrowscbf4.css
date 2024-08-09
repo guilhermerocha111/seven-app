@@ -1,0 +1,130 @@
+.sliders-arrows-bg .n2-ss-slider-controls .nextend-arrow-previous,
+.sliders-arrows-bg .n2-ss-slider-controls .nextend-arrow-next {
+    --widget-offset: 0 !important;
+    height: 100%;
+    display: flex;
+    width: 370px;
+    justify-content: flex-end;
+    border-radius: 0 !important;
+    padding: 0 !important;
+    background: none !important;
+    opacity: 0.25 !important;
+    box-shadow: none !important;
+    border: 0 !important;
+    transition: background 0s, opacity 0s !important;
+}
+
+.sliders-arrows-bg .n2-ss-slider-controls .nextend-arrow-previous:hover,
+.sliders-arrows-bg .n2-ss-slider-controls .nextend-arrow-next:hover {
+    opacity: 1 !important;
+}
+
+.sliders-arrows-bg.sliders-arrows-bg-white .n2-ss-slider-controls .nextend-arrow-previous:hover,
+.sliders-arrows-bg.sliders-arrows-bg-white .n2-ss-slider-controls .nextend-arrow-next:hover {
+    opacity: 1 !important;
+}
+
+.sliders-arrows-bg .n2-ss-slider-controls .nextend-arrow-previous {
+    justify-items: right;
+}
+
+.sliders-arrows-bg .n2-ss-slider-controls .nextend-arrow-next {
+    justify-items: left;
+}
+
+.sliders-arrows-bg .n2-ss-slider-controls .nextend-arrow-previous img,
+.sliders-arrows-bg .n2-ss-slider-controls .nextend-arrow-next img {
+    width: 65px !important;
+}
+
+@media screen and (max-width: 1299px) {
+    .sliders-arrows-bg .n2-ss-slider-controls .nextend-arrow-previous img,
+    .sliders-arrows-bg .n2-ss-slider-controls .nextend-arrow-next img {
+        width: 50px !important;
+    }
+}
+
+/***************/
+
+.page-2022-3d-slider {
+    display: block;
+}
+
+.page-2022-3d-slider-mobile {
+    display: none;
+}
+
+.page-2022-3d-slider .n2-ss-slider-controls .nextend-arrow-previous img,
+.page-2022-3d-slider .n2-ss-slider-controls .nextend-arrow-next img {
+    width: 26px !important;
+}
+
+.page-2022-3d-slider .n2-ss-slider-controls .nextend-arrow-previous,
+.page-2022-3d-slider .n2-ss-slider-controls .nextend-arrow-next {
+    --widget-offset: 24px !important;
+    padding: 19px !important;
+    background: RGBA(255, 255, 255, 0.75) !important;
+    opacity: 0.75 !important;
+}
+
+.page-2022-3d-slider .n2-ss-slider-controls .nextend-arrow-previous:hover,
+.page-2022-3d-slider .n2-ss-slider-controls .nextend-arrow-next:hover {
+    background: RGBA(255, 255, 255, 1) !important;
+    opacity: 1 !important;
+}
+
+.page-2022-3d-slider .n2-ss-slider-controls-absolute-left-center:hover .nextend-arrow-previous,
+.page-2022-3d-slider .n2-ss-slider-controls-absolute-right-center:hover .nextend-arrow-next {
+    background: RGBA(255, 255, 255, 1) !important;
+    opacity: 1 !important;    
+}
+
+@media only screen and (max-width: 1024px) {
+    .page-2022-3d-slider {
+        display: none;
+    }
+
+    .page-2022-3d-slider-mobile {
+        display: block;
+    }
+
+    .page-2022-3d-slider-mobile .n2-ss-slider-controls .nextend-arrow-previous,
+    .page-2022-3d-slider-mobile .n2-ss-slider-controls .nextend-arrow-next {
+        display: none;
+    }
+}
+
+/***************/
+
+.n2-ss-item-image-content {
+    border: none !important;
+}
+
+/*.page-2022-3d-slider .n2-ss-slide-active::before {
+    background: url('/wp-content/uploads/2023/05/ss_shadow.png');
+    width: 100%;
+    height: 24px;
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-size: contain;
+    background-repeat: no-repeat;
+}*/
+
+/***************/
+
+.red-markers li {
+    position: relative;
+}
+
+.red-markers li span {
+    position: absolute;
+    left: -10px;
+    background-size: contain;
+    background: url('https://sevencollab.com/wp-content/uploads/2022/02/Ellipse-29.svg');
+    background-repeat: no-repeat;
+    width: 11px;
+    height: 11px;
+    top: 10px;
+}

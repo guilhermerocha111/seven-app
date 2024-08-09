@@ -1,0 +1,102 @@
+.file-form-quote p {
+	text-align: left;
+	color: #05202B;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 12px;
+}
+
+.file-form-quote .wpcf7-form-control {
+	margin-bottom: 8px !important;
+	width: 40%;
+}
+
+.file-form-quote span.wpcf7-not-valid-tip {
+    width: 100%;
+    bottom: -20px;
+}
+
+.text-form-quote {
+	text-align: left;	
+}
+
+
+.text-form-quote p {
+	text-align: left;
+	color: #05202B;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.text-form-quote-checkbox {
+	text-align: left;
+	margin-bottom: 12px;
+}
+
+.text-form-quote-checkbox .wpcf7-form-control {
+	background: transparent !important;
+}
+
+
+.text-form-quote-checkbox .wpcf7-checkbox span {
+	margin: 0;
+}
+
+.text-form-quote .second-text {
+	margin: 24px 0 0;
+	text-align: center;
+}
+
+.contact-form-section .contact-form-row.contact-form-row-quote span.wpcf7-form-control-wrap {
+    width: calc(33% - 8px);
+}
+
+.contact-form-section.contact-quote-section .captcha-form-section-inside .captcha-right input {
+    width: 84%;
+}
+
+.contact-form-section.contact-quote-section .captcha-section-acceptance {
+	justify-content: center;
+}
+
+.separator-quote .mkd-separator {
+	margin-bottom: 30px !important;
+}
+
+.formats-quote {
+	margin-left: 16px;
+}
+
+.get-quote-btn a {
+	display: inline-block;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 500;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 15px 72px;
+    border-radius: 50px;
+    transition: color .15s ease-out,background-color .15s ease-out,border-color .15s ease-out;
+}
+
+.get-quote-btn a:hover {
+    color: #ffffff;
+    border-color: #c01d3d;
+    background-color: #c01d3d;
+}
+
+.get-quote-btn.red-btn a {
+    color: #ffffff;
+    border: 2px solid #c01d3d;
+    background-color: #c01d3d;
+}
+
+.get-quote-btn.red-btn a:hover {
+    color: #ffffff;
+    border-color: #CB4D66;
+    background-color: #CB4D66;
+}

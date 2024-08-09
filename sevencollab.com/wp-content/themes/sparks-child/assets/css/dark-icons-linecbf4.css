@@ -1,0 +1,110 @@
+.dark-icons-line .mkd-process-item.mkd-icon-or-number .mkd-process-item-numeration:after {
+    display: none;
+}
+
+.dark-icons-line .mkd-process-holder.columns-4 .mkd-process-holder-inner {
+    padding: 0 72px;
+}
+
+.dark-icons-line .mkd-process-item .mkd-process-item-icon-holder-wrapper .mkd-process-item-icon-holder-wrapper-inner,
+.dark-icons-line .mkd-process-item .mkd-process-item-icon-holder-wrapper {
+    height: 156px;
+}
+ 
+.dark-icons-line .mkd-process-item .mkd-process-item-icon-holder-wrapper .mkd-process-item-icon-holder-wrapper-inner .mkd-process-item-icon-holder .mkd-process-item-background-holder .mkd-process-item-background>span {
+    top: calc(50% - 24px);
+    left: calc(50% - 24px);
+    width: 48px;
+    height: 48px;
+}
+
+.dark-icons-line .mkd-process-holder.columns-4 .mkd-process-item {
+    padding: 0;
+}
+
+.dark-icons-line .mkd-process-item .mkd-process-item-icon-holder-wrapper .mkd-process-item-icon-holder-wrapper-inner .mkd-process-item-icon-holder .mkd-process-item-background-holder {
+    border: 1px dashed #009ed5;
+    padding: 7px;
+}
+
+.dark-icons-line .mkd-process-item .mkd-process-item-icon-holder-wrapper .mkd-process-item-icon-holder-wrapper-inner .mkd-process-item-icon-holder:after{
+    display: none;
+}
+
+.dark-icons-line .mkd-process-item.mkd-icon-or-number .mkd-process-item-numeration {
+    background-color: #009ed5;
+    width: 124px;
+    height: 124px;
+}
+
+.dark-icons-line .mkd-process-item .mkd-process-item-icon-holder-wrapper .mkd-process-item-icon-holder-wrapper-inner .mkd-process-item-icon-holder {
+    background: #ffffff33;
+    border: none;
+    width: 156px;
+    height: 156px;
+}
+
+.dark-icons-line .mkd-process-item .mkd-process-item-icon-holder-wrapper .mkd-process-item-icon-holder-wrapper-inner .mkd-process-item-icon-holder {
+    background: #78CCE9;
+}
+
+.dark-icons-line .mkd-process-item-title-holder h4 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #ffffff;
+    margin: 32px 0 0;
+}
+
+.dark-icons-line .dark-icons-line-element {
+    width: 1092px;
+    height: 20px;
+    position: absolute;
+    background-image: url('https://sevencollab.com/wp-content/uploads/2023/04/blue-line.svg');
+    top: calc(50% + 22px);
+    left: 50px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+@media screen and (max-width: 1299px) {
+    .dark-icons-line .dark-icons-line-element {
+        width: 1030px;
+    }
+}
+
+
+@media screen and (max-width: 1200px) {
+    .dark-icons-line .dark-icons-line-element {
+        width: 888px;
+        top: calc(50% + 10px);
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .dark-icons-line .dark-icons-line-element {
+        display: none;
+    }
+
+    .dark-icons-line .mkd-process-holder.columns-4 .mkd-process-item {
+        min-height: auto;
+    }
+
+    .dark-icons-line .mkd-process-holder.columns-4 .mkd-process-holder-inner {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .dark-icons-line .mkd-process-holder.columns-4 .mkd-process-item {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .dark-icons-line .mkd-process-holder.columns-4 .mkd-process-item {
+        width: 100%;
+    }
+}

@@ -1,0 +1,116 @@
+.blog-horizontal-list {
+	padding: 0 34px;
+}
+
+.bhl-item {
+	display: flex;
+	min-height: 285px;
+	margin-top: 32px;
+}
+
+.bhl-item:first-child {
+	margin-top: 0;
+}
+
+.bhl-item .bhl-img {
+	width: 350px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bhl-item .bhl-content {
+	text-align: left;
+	width: calc(100% - 398px);
+    background-color: #F7F7F7;
+    padding: 32px 24px;
+}
+
+.bhl-item .bhl-content .bhl-title {
+	display: inline-block;
+	font-weight: 500;
+	font-size: 27px;
+	line-height: 32px;
+	color: #05202B;
+	margin-bottom: 32px;
+}
+
+.bhl-item .bhl-content .bhl-title:hover {
+	color: #009ED5;
+}
+
+.bhl-item .bhl-content .bhl-excerpt {
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 22px;
+	color: #05202B;
+	margin-bottom: 32px;
+}
+
+.bhl-item .bhl-content .bhl-info .bhl-info-date {
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 26px;
+	text-transform: uppercase;
+	color: #05202B;
+}
+
+.bhl-item .bhl-content .bhl-info-separator {
+    color: #05202B;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 26px;
+    margin: 0 5px;
+}
+
+.bhl-item .bhl-content .bhl-info .bhl-info-category a {
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 26px;
+	text-transform: uppercase;
+    color: #05202B;
+}
+
+.bhl-item .bhl-content .bhl-info .bhl-info-category a:hover {
+	background: transparent;
+    color: #009ed5;
+}
+
+@media screen and (max-width: 1024px) {
+	.blog-horizontal-list {
+		padding: 0;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.bhl-item {
+	    flex-direction: column;
+	}
+
+	.bhl-item .bhl-img {
+		width: 100%;
+	    height: 256px;
+	    display: inline-block;
+	}
+
+	.bhl-item .bhl-content {
+		width: calc(100% - 48px);
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.bhl-item .bhl-img {
+	    height: 200px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.bhl-item .bhl-content .bhl-info {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.bhl-item .bhl-content .bhl-info .bhl-info-category span {
+		display: none;
+	}
+}

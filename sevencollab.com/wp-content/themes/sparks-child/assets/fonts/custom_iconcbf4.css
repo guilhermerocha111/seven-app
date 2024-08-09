@@ -1,0 +1,4860 @@
+@font-face {
+    font-family: "icomoon";
+    src: url("icomoon1b16.eot?yer52g");
+    src: url("icomoon1b16.eot?yer52g#iefix") format("embedded-opentype"),
+    url("icomoon1b16.ttf?yer52g") format("truetype"),
+    url("icomoon1b16.woff?yer52g") format("woff"),
+    url("icomoon1b16.svg?yer52g#icomoon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+i {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icocustom" !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.iconportfolioAmazon_Web_Services_Logo-1:before {
+    content: "\e900";
+    color: #49646e;
+}
+.iconportfolioanalysis-1:before {
+    content: "\e901";
+    color: #fff;
+}
+.iconportfolioandroid .path1:before {
+    content: "\e902";
+    color: rgb(73, 100, 110);
+}
+.iconportfolioandroid .path2:before {
+    content: "\e903";
+    margin-left: -1em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioandroid .path3:before {
+    content: "\e904";
+    margin-left: -1em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioandroid .path4:before {
+    content: "\e905";
+    margin-left: -1em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioandroid .path5:before {
+    content: "\e906";
+    margin-left: -1em;
+    color: rgb(250, 250, 250);
+}
+.iconportfolioandroid .path6:before {
+    content: "\e907";
+    margin-left: -1em;
+    color: rgb(250, 250, 250);
+}
+.iconportfolioApache_Feather_Logo .path1:before {
+    content: "\e908";
+    color: rgb(73, 100, 110);
+}
+.iconportfolioApache_Feather_Logo .path2:before {
+    content: "\e909";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioApache_Feather_Logo .path3:before {
+    content: "\e90a";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+    opacity: 0.35;
+}
+.iconportfolioApache_Feather_Logo .path4:before {
+    content: "\e90b";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioApache_Feather_Logo .path5:before {
+    content: "\e90c";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+    opacity: 0.35;
+}
+.iconportfolioApache_Feather_Logo .path6:before {
+    content: "\e90d";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioApache_Feather_Logo .path7:before {
+    content: "\e90e";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioApache_Feather_Logo .path8:before {
+    content: "\e90f";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioApache_Feather_Logo .path9:before {
+    content: "\e910";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioApache_Feather_Logo .path10:before {
+    content: "\e911";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioApache_Feather_Logo .path11:before {
+    content: "\e912";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioApache_Feather_Logo .path12:before {
+    content: "\e913";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+    opacity: 0.35;
+}
+.iconportfolioApache_Feather_Logo .path13:before {
+    content: "\e914";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioApache_Feather_Logo .path14:before {
+    content: "\e915";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+    opacity: 0.35;
+}
+.iconportfolioApache_Feather_Logo .path15:before {
+    content: "\e916";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioApache_Feather_Logo .path16:before {
+    content: "\e917";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+    opacity: 0.35;
+}
+.iconportfolioApache_Feather_Logo .path17:before {
+    content: "\e918";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioApache_Feather_Logo .path18:before {
+    content: "\e919";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioauthentication-1:before {
+    content: "\e91a";
+    color: #fff;
+}
+.iconportfolioaws_vpc-1_1 .path1:before {
+    content: "\e91b";
+    color: rgb(73, 100, 110);
+}
+.iconportfolioaws_vpc-1_1 .path2:before {
+    content: "\e91c";
+    margin-left: -0.84375em;
+    color: rgb(46, 72, 82);
+}
+.iconportfolioaws_vpc-1_1 .path3:before {
+    content: "\e91d";
+    margin-left: -0.84375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioaws_vpc-1_1 .path4:before {
+    content: "\e91e";
+    margin-left: -0.84375em;
+    color: rgb(46, 72, 82);
+}
+.iconportfolioaws_vpc-1_1 .path5:before {
+    content: "\e91f";
+    margin-left: -0.84375em;
+    color: rgb(25, 44, 52);
+}
+.iconportfolioaws_vpc-1_1 .path6:before {
+    content: "\e920";
+    margin-left: -0.84375em;
+    color: rgb(46, 72, 82);
+}
+.iconportfolioaws_vpc-1_1 .path7:before {
+    content: "\e921";
+    margin-left: -0.84375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioaws_vpc-1_1 .path8:before {
+    content: "\e922";
+    margin-left: -0.84375em;
+    color: rgb(73, 100, 110);
+}
+.iconportfolioaws_vpc-1_1 .path9:before {
+    content: "\e923";
+    margin-left: -0.84375em;
+    color: rgb(107, 138, 150);
+}
+.iconportfoliobill_1:before {
+    content: "\e925";
+    color: #fff;
+}
+.iconportfoliobill_2_1:before {
+    content: "\e926";
+    color: #fff;
+}
+.iconportfolioblocked_1:before {
+    content: "\e927";
+    color: #fff;
+}
+.iconportfoliocalendar_1:before {
+    content: "\e928";
+    color: #fff;
+}
+.iconportfoliocalendar_1_1:before {
+    content: "\e929";
+    color: #fff;
+}
+.iconportfoliocall_1:before {
+    content: "\e92a";
+    color: #fff;
+}
+.iconportfoliochat_1:before {
+    content: "\e92b";
+    color: #fff;
+}
+.iconportfoliofile_1:before {
+    content: "\e92c";
+    color: #fff;
+}
+.iconportfolioFont_Awesome_5_brands_jenkins:before {
+    content: "\e92d";
+    color: #49646e;
+}
+.iconportfolioGoogle_Material_Design_Logo .path1:before {
+    content: "\e92e";
+    color: rgb(73, 100, 110);
+}
+.iconportfolioGoogle_Material_Design_Logo .path2:before {
+    content: "\e92f";
+    margin-left: -1em;
+    color: rgb(122, 146, 155);
+}
+.iconportfolioGoogle_Material_Design_Logo .path3:before {
+    content: "\e930";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.iconportfoliogradle_icon_130917:before {
+    content: "\e931";
+    color: #49646e;
+}
+.iconportfolioiconfinder_nginx_4691563:before {
+    content: "\e932";
+    color: #49646e;
+}
+.iconportfoliokotlin_1.path1:before {
+    content: "\e933";
+    color: rgb(66, 94, 105);
+}
+.iconportfoliokotlin_1.path2:before {
+    content: "\e934";
+    margin-left: -1em;
+    color: rgb(66, 94, 105);
+}
+.iconportfoliokotlin_1.path3:before {
+    content: "\e935";
+    margin-left: -1em;
+    color: rgb(86, 120, 130);
+}
+.iconportfolioLaravel_1:before {
+    content: "\e936";
+    color: #49646e;
+}
+.iconportfoliologin_1:before {
+    content: "\e937";
+    color: #fff;
+}
+.iconportfoliomongodb_1 .path1:before {
+    content: "\e938";
+    color: rgb(255, 255, 255);
+}
+.iconportfoliomongodb_1 .path2:before {
+    content: "\e939";
+    margin-left: -0.4375em;
+    color: rgb(86, 120, 130);
+}
+.iconportfoliomongodb_1 .path3:before {
+    content: "\e93a";
+    margin-left: -0.4375em;
+    color: rgb(255, 255, 255);
+}
+.iconportfoliomongodb_1 .path4:before {
+    content: "\e93b";
+    margin-left: -0.4375em;
+    color: rgb(66, 94, 105);
+}
+.iconportfoliomongodb_1 .path5:before {
+    content: "\e93c";
+    margin-left: -0.4375em;
+    color: rgb(255, 255, 255);
+}
+.iconportfoliomongodb_1 .path6:before {
+    content: "\e93d";
+    margin-left: -0.4375em;
+    color: rgb(96, 134, 145);
+}
+.iconportfolioMySQL:before {
+    content: "\e93e";
+    color: #49646e;
+}
+.iconportfolioNpm-logo .path1:before {
+    content: "\e93f";
+    color: rgb(73, 100, 110);
+}
+.iconportfolioNpm-logo .path2:before {
+    content: "\e940";
+    margin-left: -2.4619140625em;
+    color: rgb(255, 255, 255);
+}
+.iconportfolioNpm-logo .path3:before {
+    content: "\e941";
+    margin-left: -2.4619140625em;
+    color: rgb(255, 255, 255);
+}
+.iconportfolioNpm-logo .path4:before {
+    content: "\e942";
+    margin-left: -2.4619140625em;
+    color: rgb(255, 255, 255);
+}
+.iconportfolioonline_meeting_1:before {
+    content: "\e943";
+    color: #fff;
+}
+.iconportfolioonline_payment_1:before {
+    content: "\e944";
+    color: #fff;
+}
+.iconportfoliopayment_method_1_1:before {
+    content: "\e945";
+    color: #fff;
+}
+.iconportfoliophone_book_1:before {
+    content: "\e946";
+    color: #fff;
+}
+.iconportfoliophp:before {
+    content: "\e947";
+    color: #49646e;
+}
+.iconportfolioprofile_1:before {
+    content: "\e948";
+    color: #fff;
+}
+.iconportfoliorecord_1:before {
+    content: "\e949";
+    color: #fff;
+}
+.iconportfolioreferral_1:before {
+    content: "\e94a";
+    color: #fff;
+}
+.iconportfolioreport_1:before {
+    content: "\e94b";
+    color: #fff;
+}
+.iconportfolioschedule_1:before {
+    content: "\e94c";
+    color: #fff;
+}
+.iconportfolioStripe_Logo_revised_2016_1:before {
+    content: "\e94d";
+    color: #49646e;
+}
+.iconportfolioSubtract:before {
+    content: "\e94e";
+    color: #49646e;
+}
+.iconportfolioSwift_1:before {
+    content: "\e94f";
+    color: #49646e;
+}
+.iconportfoliovideo_call_1:before {
+    content: "\e950";
+    color: #fff;
+}
+.iconportfoliovideo-call_1_1:before {
+    content: "\e951";
+    color: #fff;
+}
+.iconportfoliovideo-call_2_1:before {
+    content: "\e952";
+    color: #fff;
+}
+.iconportfoliowebrtc_1 .path1:before {
+    content: "\e953";
+    color: rgb(73, 100, 110);
+}
+.iconportfoliowebrtc_1 .path2:before {
+    content: "\e954";
+    margin-left: -1.03125em;
+    color: rgb(73, 100, 110);
+}
+.iconportfoliowebrtc_1 .path3:before {
+    content: "\e955";
+    margin-left: -1.03125em;
+    color: rgb(73, 100, 110);
+}
+.iconportfoliowebrtc_1 .path4:before {
+    content: "\e956";
+    margin-left: -1.03125em;
+    color: rgb(73, 100, 110);
+}
+.iconportfoliowebrtc_1 .path5:before {
+    content: "\e957";
+    margin-left: -1.03125em;
+    color: rgb(73, 100, 110);
+}
+.iconportfoliowebrtc_1 .path6:before {
+    content: "\e958";
+    margin-left: -1.03125em;
+    color: rgb(122, 146, 155);
+}
+.iconportfoliowebrtc_1 .path7:before {
+    content: "\e959";
+    margin-left: -1.03125em;
+    color: rgb(122, 146, 155);
+}
+.iconportfoliowebrtc_1 .path8:before {
+    content: "\e95a";
+    margin-left: -1.03125em;
+    color: rgb(122, 146, 155);
+}
+.iconportfoliowebrtc_1 .path9:before {
+    content: "\e95b";
+    margin-left: -1.03125em;
+    color: rgb(122, 146, 155);
+}
+.iconportfoliowebrtc_1 .path10:before {
+    content: "\e95c";
+    margin-left: -1.03125em;
+    color: rgb(122, 146, 155);
+}
+.iconportfoliowebrtc_1 .path11:before {
+    content: "\e95d";
+    margin-left: -1.03125em;
+    color: rgb(255, 255, 255);
+}
+
+/*by karannnnnnnnnnn*/
+
+@font-face {
+    font-family: "icocustom";
+    src: url("icocustom9103.eot?8mq6l4");
+    src: url("icocustom9103.eot?8mq6l4#iefix") format("embedded-opentype"),
+    url("icocustom9103.ttf?8mq6l4") format("truetype"),
+    url("icocustom9103.woff?8mq6l4") format("woff"),
+    url("icocustom9103.svg?8mq6l4#icocustom") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icocustom {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icocustom" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 26px;
+    /*line-height: inherit;*/
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icocustom-met_deadlines:before {
+    content: "\e900";
+}
+.icocustom-business_analysis:before {
+    content: "\e901";
+}
+.icocustom-cost_control:before {
+    content: "\e902";
+}
+.icocustom-custom_software_developement:before {
+    content: "\e903";
+}
+.icocustom-dedicated_project_manager:before {
+    content: "\e904";
+}
+.icocustom-dedicated_team_for_developement:before {
+    content: "\e905";
+}
+.icocustom-experience_professionals:before {
+    content: "\e906";
+}
+.icocustom-fast_and_easy_start:before {
+    content: "\e907";
+}
+.icocustom-first_rate_product_quality:before {
+    content: "\e908";
+}
+.icocustom-fully_namaged_by_you:before {
+    content: "\e909";
+}
+.icocustom-how_we_work:before {
+    content: "\e90a";
+}
+.icocustom-increase_end_user_loyalty:before {
+    content: "\e90b";
+}
+.icocustom-individual_hire:before {
+    content: "\e90c";
+}
+.icocustom-low_risk_developement:before {
+    content: "\e90d";
+}
+.icocustom-managed_services_support:before {
+    content: "\e90e";
+}
+.icocustom-no_chargesfor_recruitment:before {
+    content: "\e90f";
+}
+.icocustom-no_extre_taxes:before {
+    content: "\e910";
+}
+.icocustom-no_hiring_fees:before {
+    content: "\e911";
+}
+.icocustom-no_recruiting_and_retention_headache:before {
+    content: "\e912";
+}
+.icocustom-no_risks:before {
+    content: "\e913";
+}
+.icocustom-our_industry_exerience:before {
+    content: "\e914";
+}
+.icocustom-proven_and_trusted_IT:before {
+    content: "\e915";
+}
+.icocustom-quality_control:before {
+    content: "\e916";
+}
+.icocustom-reduces_management_risks:before {
+    content: "\e917";
+}
+.icocustom-unlimited_access_to_resources:before {
+    content: "\e918";
+}
+.icocustom-up_to_60_cost_saving:before {
+    content: "\e919";
+}
+.icocustom-what_we_do:before {
+    content: "\e91a";
+}
+.icocustom-why_we_do_what_we_do:before {
+    content: "\e91b";
+}
+
+/* New icons */
+@font-face {
+    font-family: "icocustom1";
+    src: url("icocustom1f7da.eot?9m8rhw");
+    src: url("icocustom1f7da.eot?9m8rhw#iefix") format("embedded-opentype"),
+    url("icocustom1f7da.ttf?9m8rhw") format("truetype"),
+    url("icocustom1f7da.woff?9m8rhw") format("woff"),
+    url("icocustom1f7da.svg?9m8rhw#icocustom") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icon-custom {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icocustom1" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: inherit;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icocustom-Angular:before {
+    content: "\e900";
+}
+.icocustom-Apache:before {
+    content: "\e901";
+}
+.icocustom-AWS:before {
+    content: "\e902";
+}
+.icocustom-Bootstrap:before {
+    content: "\e903";
+}
+.icocustom-CakePHP:before {
+    content: "\e904";
+}
+.icocustom-CodeIgniter:before {
+    content: "\e905";
+}
+.icocustom-Cordova:before {
+    content: "\e906";
+}
+.icocustom-CSS3:before {
+    content: "\e907";
+}
+.icocustom-JavaScript:before {
+    content: "\e908";
+}
+.icocustom-jQuery:before {
+    content: "\e909";
+}
+.icocustom-Knockout-JS:before {
+    content: "\e90a";
+}
+.icocustom-Laravel:before {
+    content: "\e90b";
+}
+.icocustom-MariaDB:before {
+    content: "\e90c";
+}
+.icocustom-Meteor:before {
+    content: "\e90d";
+}
+.icocustom-MySQL:before {
+    content: "\e911";
+}
+.icocustom-Django:before {
+    content: "\e912";
+}
+.icocustom-Docker_1:before {
+    content: "\e913";
+}
+.icocustom-Express_js:before {
+    content: "\e914";
+}
+.icocustom-Ext_JS:before {
+    content: "\e915";
+}
+.icocustom-Grails:before {
+    content: "\e916";
+}
+.icocustom-Ionic:before {
+    content: "\e91c";
+}
+.icocustom-Java:before {
+    content: "\e91d";
+}
+.icocustom-nodejs:before {
+    content: "\e91e";
+}
+.icocustom-Objective_C:before {
+    content: "\e91f";
+}
+.icocustom-Oracle:before {
+    content: "\e920";
+}
+.icocustom-PhoneGap:before {
+    content: "\e921";
+}
+.icocustom-php:before {
+    content: "\e922";
+}
+.icocustom-PostgreSQL:before {
+    content: "\e923";
+}
+.icocustom-python:before {
+    content: "\e924";
+}
+.icocustom-Rails:before {
+    content: "\e925";
+}
+.icocustom-React:before {
+    content: "\e926";
+}
+.icocustom-ruby:before {
+    content: "\e927";
+}
+.icocustom-Spring:before {
+    content: "\e928";
+}
+.icocustom-Sprout_Core:before {
+    content: "\e929";
+}
+.icocustom-Swift:before {
+    content: "\e92a";
+}
+.icocustom-Symfony:before {
+    content: "\e92b";
+}
+.icocustom-Vaadin:before {
+    content: "\e92c";
+}
+.icocustom-Zend:before {
+    content: "\e92d";
+}
+.icocustom-Web_applications:before {
+    content: "\e92e";
+}
+.icocustom-CRM:before {
+    content: "\e92f";
+}
+.icocustom-Video_chat_software-01:before {
+    content: "\e930";
+}
+.icocustom-Websites:before {
+    content: "\e931";
+}
+.icocustom-Web_interfaces:before {
+    content: "\e932";
+}
+.icocustom-Android:before {
+    content: "\e933";
+}
+.icocustom-Hybrid:before {
+    content: "\e934";
+}
+.icocustom-iOS:before {
+    content: "\e935";
+}
+
+@font-face {
+    font-family: "icocustom-1";
+    src: url("icocustom24a7c.eot?kmz7s6");
+    src: url("icocustom24a7c.eot?kmz7s6#iefix") format("embedded-opentype"),
+    url("icocustom24a7c.ttf?kmz7s6") format("truetype"),
+    url("icocustom24a7c.woff?kmz7s6") format("woff"),
+    url("icocustom24a7c.svg?kmz7s6#icocustom") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icocustom-1 {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icocustom-1" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icocustom-benefits:before {
+    content: "\e900";
+}
+.icocustom-extend_the_list:before {
+    content: "\e901";
+}
+.icocustom-web_development_Companies:before {
+    content: "\e902";
+}
+.icocustom-why_hire_a_ukrainian_Partner:before {
+    content: "\e903";
+}
+.icocustom-avoid_the_unnecessary:before {
+    content: "\e904";
+}
+.icocustom-benefits2:before {
+    content: "\e905";
+}
+.icocustom-design_agencies:before {
+    content: "\e906";
+}
+.icocustom-why_hire_a_ukrainian_Partner2:before {
+    content: "\e907";
+}
+.icocustom-benefits3:before {
+    content: "\e908";
+}
+.icocustom-deliver_exceptional_value:before {
+    content: "\e909";
+}
+.icocustom-internet_marketing_Agencies:before {
+    content: "\e90a";
+}
+.icocustom-why_hire_a_ukrainian_Partner3:before {
+    content: "\e90b";
+}
+.icocustom-media_firms:before {
+    content: "\e90c";
+}
+.icocustom-pr_firms:before {
+    content: "\e90d";
+}
+.icocustom-html5:before {
+    content: "\e90e";
+}
+.icocustom-knockoutjs_2_1:before {
+    content: "\e90f";
+}
+.icocustom-knockoutjs_2:before {
+    content: "\e910";
+}
+.icocustom-oracle_2:before {
+    content: "\e911";
+}
+.icocustom-unified_js:before {
+    content: "\e912";
+}
+
+/* Portfolio icons*/
+@font-face {
+    font-family: "iconportfolio";
+    src: url("iconportfolio9874.eot?supo8y");
+    src: url("iconportfolio9874.eot?supo8y#iefix") format("embedded-opentype"),
+    url("iconportfolio9874.ttf?supo8y") format("truetype"),
+    url("iconportfolio9874.woff?supo8y") format("woff"),
+    url("iconportfolio9874.svg?supo8y#iconportfolio") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.iconportfolio {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "iconportfolio" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.iconportfolio-alarm:before {
+    content: "\e900";
+}
+.iconportfolio-ap_diamond:before {
+    content: "\e901";
+}
+.iconportfolio-ap_growth:before {
+    content: "\e902";
+}
+.iconportfolio-ap_increase:before {
+    content: "\e903";
+}
+.iconportfolio-ap_line-chart:before {
+    content: "\e904";
+}
+.iconportfolio-ap_location:before {
+    content: "\e905";
+}
+.iconportfolio-ap_medical-result:before {
+    content: "\e906";
+}
+.iconportfolio-ap_rating:before {
+    content: "\e907";
+}
+.iconportfolio-ap_responsive:before {
+    content: "\e908";
+}
+.iconportfolio-ap_shopping-cart:before {
+    content: "\e909";
+}
+.iconportfolio-ap_target:before {
+    content: "\e90a";
+}
+.iconportfolio-ap_time:before {
+    content: "\e90b";
+}
+.iconportfolio-ap_update-arrows:before {
+    content: "\e90c";
+}
+.iconportfolio-ap_user:before {
+    content: "\e90d";
+}
+.iconportfolio-bars-chart:before {
+    content: "\e90e";
+}
+.iconportfolio-calculator:before {
+    content: "\e90f";
+}
+.iconportfolio-da_advanced_filters:before {
+    content: "\e910";
+}
+.iconportfolio-da_user:before {
+    content: "\e911";
+}
+.iconportfolio-hippa_1:before {
+    content: "\e912";
+}
+.iconportfolio-hippa_2:before {
+    content: "\e913";
+}
+.iconportfolio-hippa_3:before {
+    content: "\e914";
+}
+.iconportfolio-hippa_4:before {
+    content: "\e915";
+}
+.iconportfolio-hippa_advanced_directives:before {
+    content: "\e916";
+}
+.iconportfolio-hippa_allergies:before {
+    content: "\e917";
+}
+.iconportfolio-hippa_current_medications:before {
+    content: "\e918";
+}
+.iconportfolio-hippa_pertinent_past_history:before {
+    content: "\e919";
+}
+.iconportfolio-hippa_recent_admissions:before {
+    content: "\e91a";
+}
+.iconportfolio-hippa_recent_vitals:before {
+    content: "\e91b";
+}
+.iconportfolio-increase:before {
+    content: "\e91c";
+}
+.iconportfolio-invoice:before {
+    content: "\e91d";
+}
+.iconportfolio-mm_medical-result:before {
+    content: "\e91e";
+}
+.iconportfolio-mm_medicines:before {
+    content: "\e91f";
+}
+.iconportfolio-mm_prescription:before {
+    content: "\e920";
+}
+.iconportfolio-mm_pulse:before {
+    content: "\e921";
+}
+.iconportfolio-mm_speech-bubble:before {
+    content: "\e922";
+}
+.iconportfolio-mm_webcam:before {
+    content: "\e923";
+}
+.iconportfolio-monitor:before {
+    content: "\e924";
+}
+.iconportfolio-network:before {
+    content: "\e925";
+}
+.iconportfolio-presentation:before {
+    content: "\e926";
+}
+.iconportfolio-ss_bill:before {
+    content: "\e927";
+}
+.iconportfolio-ss_speaker:before {
+    content: "\e928";
+}
+.iconportfolio-ss_tag:before {
+    content: "\e929";
+}
+.iconportfolio-wall-calendar:before {
+    content: "\e92a";
+}
+
+@font-face {
+    font-family: "icocustom-2";
+    src: url("icocustom-24361.eot?fn9ki6");
+    src: url("icocustom-24361.eot?fn9ki6#iefix") format("embedded-opentype"),
+    url("icocustom-24361.ttf?fn9ki6") format("truetype"),
+    url("icocustom-24361.woff?fn9ki6") format("woff"),
+    url("icocustom-24361.svg?fn9ki6#icocustom-2") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-custom2"],
+[class*=" icon-custom2"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icocustom-2" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-custom2add:before {
+    content: "\e90a";
+}
+.icon-custom2check-list:before {
+    content: "\e90b";
+}
+.icon-custom2checked:before {
+    content: "\e90c";
+}
+.icon-custom2clerk:before {
+    content: "\e90d";
+}
+.icon-custom2credit-card:before {
+    content: "\e90e";
+}
+.icon-custom2domain-registration:before {
+    content: "\e910";
+}
+.icon-custom2fist:before {
+    content: "\e911";
+}
+.icon-custom2gear-loading:before {
+    content: "\e912";
+}
+.icon-custom2graduate-student:before {
+    content: "\e913";
+}
+.icon-custom2padlock:before {
+    content: "\e914";
+}
+.icon-custom2professor-consultation:before {
+    content: "\e915";
+}
+.icon-custom2table:before {
+    content: "\e916";
+}
+.icon-custom2technics:before {
+    content: "\e917";
+}
+.icon-custom2university-lecture:before {
+    content: "\e918";
+}
+.icon-custom2video-camera:before {
+    content: "\e919";
+}
+.icon-custom2worker:before {
+    content: "\e91a";
+}
+.icon-custom2gson:before {
+    content: "\e900";
+}
+.iconportfoliobill-1:before {
+    content: "\e901";
+}
+.icon-custom2gulp:before {
+    content: "\e901";
+}
+.icon-custom2jquery-ui:before {
+    content: "\e902";
+}
+.icon-custom2lua:before {
+    content: "\e903";
+}
+.icon-custom2Retrofit2:before {
+    content: "\e905";
+}
+.icon-custom2sass:before {
+    content: "\e906";
+}
+.icon-custom2tls:before {
+    content: "\e907";
+}
+.icon-custom2Ultracart:before {
+    content: "\e908";
+}
+.icon-custom2websocket:before {
+    content: "\e909";
+}
+
+@font-face {
+    font-family: "icoportfolio-3";
+    src: url("icoportfolio-37c84.eot?r1nhdp");
+    src: url("icoportfolio-37c84.eot?r1nhdp#iefix") format("embedded-opentype"),
+    url("icoportfolio-37c84.ttf?r1nhdp") format("truetype"),
+    url("icoportfolio-37c84.woff?r1nhdp") format("woff"),
+    url("icoportfolio-37c84.svg?r1nhdp#icoportfolio-3") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-portfolio3"],
+[class*=" icon-portfolio3"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icoportfolio-3" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-portfolio3Angular:before {
+    content: "\e900";
+}
+.icon-portfolio3Mobile_first_design:before {
+    content: "\e901";
+}
+
+@font-face {
+    font-family: "icoportfolio-4";
+    src: url("icoportfolio-4e051.eot?m44lwn");
+    src: url("icoportfolio-4e051.eot?m44lwn#iefix") format("embedded-opentype"),
+    url("icoportfolio-4e051.ttf?m44lwn") format("truetype"),
+    url("icoportfolio-4e051.woff?m44lwn") format("woff"),
+    url("icoportfolio-4e051.svg?m44lwn#icoportfolio-4") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-portfolio4"],
+[class*=" icon-portfolio4"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icoportfolio-4" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: inherit;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-portfolio4Highmaps:before {
+    content: "\e900";
+}
+.icon-portfolio4modernizr:before {
+    content: "\e901";
+}
+.icon-portfolio4nginx:before {
+    content: "\e902";
+}
+.icon-portfolio4PKCS1:before {
+    content: "\e903";
+}
+.icon-portfolio4stripe:before {
+    content: "\e904";
+}
+.icon-portfolio4underscore-logo:before {
+    content: "\e905";
+}
+.icon-portfolio4Сore-JS-logo:before {
+    content: "\e906";
+}
+
+/*Custom icon*/
+@font-face {
+    font-family: "icomoon-pp-1";
+    src: url("icomoon-pp-182fe.eot?frb48c");
+    src: url("icomoon-pp-182fe.eot?frb48c#iefix") format("embedded-opentype"),
+    url("icomoon-pp-182fe.ttf?frb48c") format("truetype"),
+    url("icomoon-pp-182fe.woff?frb48c") format("woff"),
+    url("icomoon-pp-182fe.svg?frb48c#icomoon-pp-1") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-pp-1"],
+[class*=" icon-pp-1"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icomoon-pp-1" !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body .icon-pp-1 {
+    font-family: "icomoon-pp-1" !important;
+}
+.icon-pp-1payment-method-1:before {
+    content: "\e9090";
+    color: #fff;
+}
+.icon-pp-1calendar-1:before {
+    content: "\e9091";
+    color: #fff;
+}
+.icon-pp-1video-call-1:before {
+    content: "\e9092";
+    color: #fff;
+}
+
+@font-face {
+    font-family: "icomoon-pp-2";
+    src: url("icomoon-pp-20308.eot?2qxzz0");
+    src: url("icomoon-pp-20308.eot?2qxzz0#iefix") format("embedded-opentype"),
+    url("icomoon-pp-20308.ttf?2qxzz0") format("truetype"),
+    url("icomoon-pp-20308.woff?2qxzz0") format("woff"),
+    url("icomoon-pp-20308.svg?2qxzz0#icomoon-pp-2") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-pp-2"],
+[class*=" icon-pp-2"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icomoon-pp-2" !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pp-2analysis-1:before {
+    content: "\e900";
+    color: #fff;
+}
+.icon-pp-2online-payment-1:before {
+    content: "\e901";
+    color: #fff;
+}
+.icon-pp-2bell-1:before {
+    content: "\e902";
+    color: #fff;
+}
+.icon-pp-2link-1:before {
+    content: "\e903";
+    color: #fff;
+}
+.icon-pp-2admin-1:before {
+    content: "\e904";
+    color: #fff;
+}
+
+@font-face {
+    font-family: "icomoon-pp-3";
+    src: url("icomoon-pp-34c90.eot?e4e4vv");
+    src: url("icomoon-pp-34c90.eot?e4e4vv#iefix") format("embedded-opentype"),
+    url("icomoon-pp-34c90.ttf?e4e4vv") format("truetype"),
+    url("icomoon-pp-34c90.woff?e4e4vv") format("woff"),
+    url("icomoon-pp-34c90.svg?e4e4vv#icomoon-pp-3") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+body .icon-pp-3 {
+    font-family: "icomoon-pp-3" !important;
+}
+[class^="icon-pp-3"],
+[class*=" icon-pp-3"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icomoon-pp-3" !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pp-3i:before {
+    content: "\e900";
+    color: #fff;
+}
+.icon-pp-3customer-service-1:before {
+    content: "\e901";
+    color: #fff;
+}
+.icon-pp-3singer-1:before {
+    content: "\e902";
+    color: #fff;
+}
+.icon-pp-3rating-1:before {
+    content: "\e903";
+    color: #fff;
+}
+.icon-pp-3computer-1:before {
+    content: "\e904";
+    color: #fff;
+}
+.icon-pp-3woman-1:before {
+    content: "\e905";
+    color: #fff;
+}
+.icon-pp-3advisor-1:before {
+    content: "\e906";
+    color: #fff;
+}
+.icon-pp-3graduated-1:before {
+    content: "\e907";
+    color: #fff;
+}
+.icon-pp-3rate-1:before {
+    content: "\e908";
+    color: #fff;
+}
+.icon-pp-3calendar-1-1:before {
+    content: "\e909";
+    color: #fff;
+}
+
+@font-face {
+    font-family: "icomoon-pp-4";
+    src: url("fonts/icomoon-pp-409cc.html?dwn9o1");
+    src: url("fonts/icomoon-pp-409cc.html?dwn9o1#iefix") format("embedded-opentype"),
+    url("fonts/icomoon-pp-409cc-2.html?dwn9o1") format("truetype"),
+    url("fonts/icomoon-pp-409cc-3.html?dwn9o1") format("woff"),
+    url("fonts/icomoon-pp-409cc-4.html?dwn9o1#icomoon-pp-4") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-pp-4"],
+[class*=" icon-pp-4"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icomoon-pp-4" !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pp-3calendar-1-1:before {
+    content: "\e909";
+    color: #fff;
+}
+
+@font-face {
+    font-family: "icomoon-pp-6";
+    src: url("icomoon-pp-62bb0.eot?mu2hu0");
+    src: url("icomoon-pp-62bb0.eot?mu2hu0#iefix") format("embedded-opentype"),
+    url("icomoon-pp-62bb0.ttf?mu2hu0") format("truetype"),
+    url("icomoon-pp-62bb0.woff?mu2hu0") format("woff"),
+    url("icomoon-pp-62bb0.svg?mu2hu0#icomoon-pp-6") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+body .icon-pp-6 {
+    font-family: "icomoon-pp-6" !important;
+}
+[class^="icon-pp-6"],
+[class*=" icon-pp-6"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icomoon-pp-6" !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pp-6iconfinder_postgresql_4691328-1:before {
+    content: "\e900";
+    color: #49646e;
+}
+.icon-pp-6mongodb-1:before {
+    content: "\e901";
+    color: rgb(73, 100, 110);
+}
+.icon-pp-6mongodb-1 .path2:before {
+    content: "\e902";
+    margin-left: -1.375em;
+    color: rgb(73, 100, 110);
+}
+.icon-pp-6mongodb-1 .path3:before {
+    content: "\e903";
+    margin-left: -1.375em;
+    color: rgb(255, 255, 255);
+}
+.icon-pp-6mongodb-1 .path4:before {
+    content: "\e904";
+    margin-left: -1.375em;
+    color: rgb(111, 138, 148);
+}
+.icon-pp-6mongodb-1 .path5:before {
+    content: "\e905";
+    margin-left: -1.375em;
+    color: rgb(255, 255, 255);
+}
+.icon-pp-6mongodb-1 .path6:before {
+    content: "\e906";
+    margin-left: -1.375em;
+    color: rgb(73, 100, 110);
+}
+.icon-pp-6mongodb-1 .path7:before {
+    content: "\e907";
+    margin-left: -1.375em;
+    color: rgb(255, 255, 255);
+}
+.icon-pp-6mongodb-1 .path8:before {
+    content: "\e908";
+    margin-left: -1.375em;
+    color: rgb(96, 122, 132);
+}
+.icon-pp-6Amazon_Web_Services_Logo:before {
+    content: "\e909";
+    color: #49646e;
+}
+.icon-pp-6php-1:before {
+    content: "\e90a";
+    color: #49646e;
+}
+.icon-pp-6Laravel-1:before {
+    content: "\e90b";
+    color: #49646e;
+}
+.icon-pp-6Angular-1:before {
+    content: "\e90c";
+    color: #49646e;
+}
+
+@font-face {
+    font-family: "icoportfolio-5";
+    src: url("icoportfolio-55a16.eot?sa1a3q");
+    src: url("icoportfolio-55a16.eot?sa1a3q#iefix") format("embedded-opentype"),
+    url("icoportfolio-55a16.ttf?sa1a3q") format("truetype"),
+    url("icoportfolio-55a16.woff?sa1a3q") format("woff"),
+    url("icoportfolio-55a16.svg?sa1a3q#icoportfolio-5") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-portfolio5"],
+[class*=" icon-portfolio5"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icoportfolio-5" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-portfolio5PKCS1:before {
+    content: "\e900";
+}
+.icon-portfolio5underscore-logo:before {
+    content: "\e901";
+}
+.icon-portfolio5Сore-JS-logo:before {
+    content: "\e902";
+}
+
+@font-face {
+    font-family: "icoportfolio-6";
+    src: url("icoportfolio-6d360.eot?ujisil");
+    src: url("icoportfolio-6d360.eot?ujisil#iefix") format("embedded-opentype"),
+    url("icoportfolio-6d360.ttf?ujisil") format("truetype"),
+    url("icoportfolio-6d360.woff?ujisil") format("woff"),
+    url("icoportfolio-6d360.svg?ujisil#icoportfolio-6") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-portfolio6"],
+[class*=" icon-portfolio6"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icoportfolio-6" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-portfolio6analyze:before {
+    content: "\e900";
+}
+.icon-portfolio6big-brochure:before {
+    content: "\e901";
+}
+.icon-portfolio6block-scheme-of-four-squares-outlines:before {
+    content: "\e902";
+}
+.icon-portfolio6credit-card:before {
+    content: "\e903";
+}
+.icon-portfolio6delivery-in-hand:before {
+    content: "\e904";
+}
+.icon-portfolio6delivery-truck:before {
+    content: "\e905";
+}
+.icon-portfolio6end-user-problem:before {
+    content: "\e906";
+}
+.icon-portfolio6evidence:before {
+    content: "\e907";
+}
+.icon-portfolio6investment-model:before {
+    content: "\e908";
+}
+.icon-portfolio6lift-package:before {
+    content: "\e909";
+}
+.icon-portfolio6opened-packaged:before {
+    content: "\e90a";
+}
+.icon-portfolio6padnote:before {
+    content: "\e90b";
+}
+.icon-portfolio6placeholder:before {
+    content: "\e90c";
+}
+.icon-portfolio6search:before {
+    content: "\e90d";
+}
+.icon-portfolio6three-squares-graphic:before {
+    content: "\e90e";
+}
+.icon-portfolio6trolley:before {
+    content: "\e90f";
+}
+.icon-portfolio6wallet:before {
+    content: "\e910";
+}
+
+@font-face {
+    font-family: "icocustomseven-7";
+    src: url("icocustomseven-70e4b.eot?7xgqkd");
+    src: url("icocustomseven-70e4b.eot?7xgqkd#iefix") format("embedded-opentype"),
+    url("icocustomseven-70e4b.ttf?7xgqkd") format("truetype"),
+    url("icocustomseven-70e4b.woff?7xgqkd") format("woff"),
+    url("icocustomseven-70e4b.svg?7xgqkd#icocustomseven-7") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-customseven-7"],
+[class*=" icon-customseven-7"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icocustomseven-7" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-customseven-7calculator:before {
+    content: "\e900";
+}
+.icon-customseven-7delivery-in-hand:before {
+    content: "\e903";
+}
+.icon-customseven-7girl:before {
+    content: "\e90b";
+}
+.icon-customseven-7help-button:before {
+    content: "\e90c";
+}
+.icon-customseven-7increase:before {
+    content: "\e90d";
+}
+.icon-customseven-7lift-package:before {
+    content: "\e90e";
+}
+.icon-customseven-7medical-result:before {
+    content: "\e90f";
+}
+.icon-customseven-7padnote:before {
+    content: "\e910";
+}
+.icon-customseven-7pulse:before {
+    content: "\e911";
+}
+.icon-customseven-7trolley:before {
+    content: "\e912";
+}
+
+@font-face {
+    font-family: "icon-customseven-8";
+    src: url("icon-customseven-851b8.ttf?qyfhm0") format("truetype"),
+    url("icon-customseven-851b8.woff?qyfhm0") format("woff"),
+    url("icon-customseven-851b8.svg?qyfhm0#icon-customseven-8") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-customseven-8"],
+[class*=" icon-customseven-8"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icon-customseven-8" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-customseven-8Fabric-01:before {
+    content: "\e900";
+}
+.icon-customseven-8leakCanary:before {
+    content: "\e901";
+}
+.icon-customseven-8Tokbox:before {
+    content: "\e902";
+}
+
+@font-face {
+    font-family: "icon-customseven2018-9";
+    src: url("icon-customseven2018-95c9c.ttf?2vb87i") format("truetype"),
+    url("icon-customseven2018-95c9c.woff?2vb87i") format("woff"),
+    url("icon-customseven2018-95c9c.svg?2vb87i#icon-customseven2018-9")
+    format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-customseven2018-9"],
+[class*=" icon-customseven2018-9"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icon-customseven2018-9" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-customseven2018-9res-1:before {
+    content: "\e900";
+}
+.icon-customseven2018-9res-2:before {
+    content: "\e901";
+}
+.icon-customseven2018-9res-3:before {
+    content: "\e902";
+}
+.icon-customseven2018-9res-4:before {
+    content: "\e903";
+}
+
+@font-face {
+    font-family: "icomoon-m2g";
+    src: url("icomoon-m2gf40b.eot?brxsg4");
+    src: url("icomoon-m2gf40b.eot?brxsg4#iefix") format("embedded-opentype"),
+    url("icomoon-m2gf40b.ttf?brxsg4") format("truetype"),
+    url("icomoon-m2gf40b.woff?brxsg4") format("woff"),
+    url("icomoon-m2gf40b.svg?brxsg4#icomoon-m2g") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-seven-m2g"],
+[class*=" icon-seven-m2g"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icomoon-m2g" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-seven-m2gpercentage-discount-01:before {
+    content: "\e900";
+}
+.icon-seven-m2gTwitter-SDK-01:before {
+    content: "\e901";
+}
+.icon-seven-m2gIn-App-purchases-01:before {
+    content: "\e902";
+}
+.icon-seven-m2gfacebook-01:before {
+    content: "\e903";
+}
+.icon-seven-m2gInstagram:before {
+    content: "\e904";
+}
+.icon-seven-m2gffmpeg:before {
+    content: "\e905";
+}
+
+@font-face {
+    font-family: "icon-m2g-2";
+    src: url("icon-m2g-29d70.ttf?n9m8ub") format("truetype"),
+    url("icon-m2g-29d70.woff?n9m8ub") format("woff"),
+    url("icon-m2g-29d70.svg?n9m8ub#icon-m2g-2") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-custom-m2g-2"],
+[class*=" icon-custom-m2g-2"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icon-m2g-2" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-custom-m2g-2group:before {
+    content: "\e900";
+}
+.icon-custom-m2g-2share:before {
+    content: "\e901";
+}
+
+@font-face {
+    font-family: "icomoon-moxi";
+    src: url("icomoon-moxi3987.eot?q91v42");
+    src: url("icomoon-moxi3987.eot?q91v42#iefix") format("embedded-opentype"),
+    url("icomoon-moxi3987.ttf?q91v42") format("truetype"),
+    url("icomoon-moxi3987.woff?q91v42") format("woff"),
+    url("icomoon-moxi3987.svg?q91v42#icomoon-moxi") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-seven-moxi"],
+[class*=" icon-seven-moxi"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icomoon-moxi" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-seven-moxiSQLCipher:before {
+    content: "\e900";
+}
+.icon-seven-moxiComplete_information_encryption:before {
+    content: "\e901";
+}
+.icon-seven-moxiCredit_check_tools:before {
+    content: "\e902";
+}
+.icon-seven-moxiMultithread_image_loading:before {
+    content: "\e903";
+}
+.icon-seven-moxiID_verification_tools:before {
+    content: "\e904";
+}
+.icon-seven-moxiPayment_gateway:before {
+    content: "\e905";
+}
+.icon-seven-moxiSecure_data_storage:before {
+    content: "\e906";
+}
+.icon-seven-moxiVIN_decoding:before {
+    content: "\e907";
+}
+.icon-seven-moxiSpring-Boot-01:before {
+    content: "\e908";
+}
+.icon-seven-moxiAESCrypt:before {
+    content: "\e911";
+}
+.icon-seven-moxiResult-01:before {
+    content: "\e912";
+}
+.icon-seven-moxiSpring-Web-Security:before {
+    content: "\e913";
+}
+
+@font-face {
+    font-family: "icomoon-moxi2";
+    src: url("icomoon-moxi2554e.eot?lvzi41");
+    src: url("icomoon-moxi2554e.eot?lvzi41#iefix") format("embedded-opentype"),
+    url("icomoon-moxi2554e.ttf?lvzi41") format("truetype"),
+    url("icomoon-moxi2554e.woff?lvzi41") format("woff"),
+    url("icomoon-moxi2554e.svg?lvzi41#icomoon-moxi2") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-seven-moxi2"],
+[class*=" icon-seven-moxi2"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icomoon-moxi2" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-seven-moxi2Multithread_image_loading2:before {
+    content: "\e900";
+}
+.icon-seven-moxi2Credit_check_tools2:before {
+    content: "\e901";
+}
+.icon-seven-moxi2Payment_gateway2:before {
+    content: "\e902";
+}
+.icon-seven-moxi2Complete_information_encryption2:before {
+    content: "\e903";
+}
+.icon-seven-moxi2Secure_data_storage2:before {
+    content: "\e904";
+}
+
+@font-face {
+    font-family: "icoportfolio-7";
+    src: url("icoportfolio-788d7.eot?r34dny");
+    src: url("icoportfolio-788d7.eot?r34dny#iefix") format("embedded-opentype"),
+    url("icoportfolio-788d7.ttf?r34dny") format("truetype"),
+    url("icoportfolio-788d7.woff?r34dny") format("woff"),
+    url("icoportfolio-788d7.svg?r34dny#icoportfolio-7") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-icoportfolio7"],
+[class*=" icon-icoportfolio7"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icoportfolio-7" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icoportfolio7-reaction-time:before {
+    content: "\e900";
+    color: #fff;
+}
+.icon-icoportfolio7-gait:before {
+    content: "\e901";
+    color: #fff;
+}
+.icon-icoportfolio7-balance:before {
+    content: "\e902";
+    color: #fff;
+}
+.icon-icoportfolio7-finger-tapping:before {
+    content: "\e903";
+    color: #fff;
+}
+
+/*benefits icons*/
+@font-face {
+    font-family: "icobenefits";
+    src: url("icobenefits0ef6.eot?6woqpa");
+    src: url("icobenefits0ef6.eot?6woqpa#iefix") format("embedded-opentype"),
+    url("icobenefits0ef6.ttf?6woqpa") format("truetype"),
+    url("icobenefits0ef6.woff?6woqpa") format("woff"),
+    url("icobenefits0ef6.svg?6woqpa#icomoon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-benefits"],
+[class*=" icon-benefits"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icobenefits" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-benefits-clinics_and_doctors:before {
+    content: "\e900";
+}
+.icon-benefits-patients:before {
+    content: "\e901";
+}
+.icon-benefits-pharmacies:before {
+    content: "\e902";
+}
+
+/*autism custom icons*/
+@font-face {
+    font-family: "icoautism";
+    src: url("icoautismc94a.eot?eyoexc");
+    src: url("icoautismc94a.eot?eyoexc#iefix") format("embedded-opentype"),
+    url("icoautismc94a.ttf?eyoexc") format("truetype"),
+    url("icoautismc94a.woff?eyoexc") format("woff"),
+    url("icoautismc94a.svg?eyoexc#icomoon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-autism"],
+[class*=" icon-autism"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icoautism" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-autism-amazon:before {
+    content: "\e900";
+    color: #fff;
+    font-size: 1.3em;
+    position: relative;
+    top: 15%;
+}
+.icon-autism-bitrate:before {
+    content: "\e901";
+    color: #fff;
+    font-size: 1.4em;
+    position: relative;
+    top: 15%;
+}
+.icon-autism-mpeg-player:before {
+    content: "\e902";
+    color: #fff;
+    font-size: 1.4em;
+    position: relative;
+    top: 20%;
+}
+.icon-autism-AWS-SDK:before {
+    content: "\e903";
+    font-size: 2em;
+    line-height: 60%;
+}
+.icon-autism-mpeg-dash:before {
+    content: "\e904";
+    font-size: 2.5em;
+    line-height: 40%;
+}
+
+/*icoautism-compatible*/
+@font-face {
+    font-family: "icoautism-compatible";
+    src: url("icoautism-compatible4d4e.eot?54r9bv");
+    src: url("icoautism-compatible4d4e.eot?54r9bv#iefix") format("embedded-opentype"),
+    url("icoautism-compatible4d4e.ttf?54r9bv") format("truetype"),
+    url("icoautism-compatible4d4e.woff?54r9bv") format("woff"),
+    url("icoautism-compatible4d4e.svg?54r9bv#icomoon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-autism-compatible"],
+[class*=" icon-autism-compatible"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icoautism-compatible" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-autism-compatible-amazon:before {
+    content: "\e900";
+}
+.icon-autism-compatible-LG:before {
+    content: "\e901";
+}
+.icon-autism-compatible-Panasonic:before {
+    content: "\e902";
+}
+.icon-autism-compatible-samsung:before {
+    content: "\e903";
+}
+
+/*givegrin icons*/
+@font-face {
+    font-family: "icogivegrin";
+    src: url("icogivegrin64d4.eot?sn3pny");
+    src: url("icogivegrin64d4.eot?sn3pny#iefix") format("embedded-opentype"),
+    url("icogivegrin64d4.ttf?sn3pny") format("truetype"),
+    url("icogivegrin64d4.woff?sn3pny") format("woff"),
+    url("icogivegrin64d4.svg?sn3pny#icomoon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-givegrin"],
+[class*=" icon-givegrin"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icogivegrin" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-givegrin-percent:before {
+    content: "\e900";
+}
+.icon-givegrin-loading-Technology-Stack:before {
+    content: "\e901";
+}
+.icon-givegrin-yelp-Key-Functionality:before {
+    content: "\e902";
+}
+
+/*pro-web-app-dev-icons*/
+@font-face {
+    font-family: "pro-web-app-dev";
+    src: url("pro-web-app-dev-icons5b08.eot?8reaob");
+    src: url("pro-web-app-dev-icons5b08.eot?8reaob#iefix") format("embedded-opentype"),
+    url("pro-web-app-dev-icons5b08.ttf?8reaob") format("truetype"),
+    url("pro-web-app-dev-icons5b08.woff?8reaob") format("woff"),
+    url("pro-web-app-dev-icons5b08.svg?8reaob#icomoon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-pro-web-app-dev"],
+[class*=" icon-pro-web-app-dev"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "pro-web-app-dev" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pro-web-app-dev-Engaging:before {
+    content: "\e900";
+}
+.icon-pro-web-app-dev-fast:before {
+    content: "\e901";
+}
+.icon-pro-web-app-dev-linkable:before {
+    content: "\e902";
+}
+.icon-pro-web-app-dev-mobile:before {
+    content: "\e903";
+    color: #009ed5;
+}
+.icon-pro-web-app-dev-modern:before {
+    content: "\e904";
+}
+.icon-pro-web-app-dev-reliable:before {
+    content: "\e905";
+}
+.icon-pro-web-app-dev-responsive:before {
+    content: "\e906";
+}
+.icon-pro-web-app-dev-security:before {
+    content: "\e907";
+}
+.icon-pro-web-app-dev-seo:before {
+    content: "\e908";
+}
+.icon-pro-web-app-dev-web:before {
+    content: "\e909";
+    color: #009ed5;
+}
+
+/*icons aseda*/
+@font-face {
+    font-family: "icoaseda";
+    src: url("icoaseda0fc5.eot?cz0thm");
+    src: url("icoaseda0fc5.eot?cz0thm#iefix") format("embedded-opentype"),
+    url("icoaseda0fc5.ttf?cz0thm") format("truetype"),
+    url("icoaseda0fc5.woff?cz0thm") format("woff"),
+    url("icoaseda0fc5.svg?cz0thm#icomoon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-aseda"],
+[class*=" icon-aseda"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icoaseda" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-aseda-ad-functionality-integration:before {
+    content: "\e900";
+}
+.icon-aseda-child-and-adult-alphabetes:before {
+    content: "\e901";
+}
+.icon-aseda-english-and-french-alphabetes:before {
+    content: "\e902";
+}
+.icon-aseda-helpful-links:before {
+    content: "\e903";
+}
+.icon-aseda-list-of-favorites:before {
+    content: "\e904";
+}
+.icon-aseda-payment-integration:before {
+    content: "\e905";
+}
+.icon-aseda-video-categories:before {
+    content: "\e906";
+}
+
+/*icons healthcare*/
+@font-face {
+    font-family: "icohealthcare";
+    src: url("icohealthcare20ae.eot?fm9b97");
+    src: url("icohealthcare20ae.eot?fm9b97#iefix") format("embedded-opentype"),
+    url("icohealthcare20ae.ttf?fm9b97") format("truetype"),
+    url("icohealthcare20ae.woff?fm9b97") format("woff"),
+    url("icohealthcare20ae.svg?fm9b97#icomoon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-healthcare"],
+[class*=" icon-healthcare"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icohealthcare" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-healthcare-other:before {
+    content: "\e900";
+}
+.icon-healthcare-peer-to-peer:before {
+    content: "\e901";
+}
+.icon-healthcare-remote-patient:before {
+    content: "\e902";
+}
+.icon-healthcare-admin-tool:before {
+    content: "\e903";
+}
+.icon-healthcare-data-managment:before {
+    content: "\e904";
+}
+.icon-healthcare-electronic-medical-record:before {
+    content: "\e905";
+}
+.icon-healthcare-inventory-management:before {
+    content: "\e906";
+}
+.icon-healthcare-privider-training:before {
+    content: "\e907";
+}
+.icon-healthcare-treatment:before {
+    content: "\e908";
+}
+
+@font-face {
+    font-family: "icomoon-technology";
+    src: url("icomoon-technology0908.eot?t5m4bv");
+    src: url("icomoon-technology0908.eot?t5m4bv#iefix") format("embedded-opentype"),
+    url("icomoon-technology0908.ttf?t5m4bv") format("truetype"),
+    url("icomoon-technology0908.woff?t5m4bv") format("woff"),
+    url("icomoon-technology0908.svg?t5m4bv#icomoon-technology") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-technology"],
+[class*=" icon-technology"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icomoon-technology" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-technologymap:before {
+    content: "\e900";
+}
+.icon-technologywallet:before {
+    content: "\e901";
+}
+
+@font-face {
+    font-family: "icomoon-ppm";
+    src: url("icomoon-ppm1731.eot?v2p9mu");
+    src: url("icomoon-ppm1731.eot?v2p9mu#iefix") format("embedded-opentype"),
+    url("icomoon-ppm1731.ttf?v2p9mu") format("truetype"),
+    url("icomoon-ppm1731.woff?v2p9mu") format("woff"),
+    url("icomoon-ppm1731.svg?v2p9mu#icomoon-ppm") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-ppm"],
+[class*=" icon-ppm"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icomoon-ppm" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ppmAdvice-Services:before {
+    content: "\e900";
+}
+.icon-ppmaudio:before {
+    content: "\e901";
+}
+.icon-ppmChat-Informers:before {
+    content: "\e902";
+}
+.icon-ppmChat-Invites:before {
+    content: "\e903";
+}
+.icon-ppmchat:before {
+    content: "\e904";
+}
+.icon-ppmClient-Private-Areas:before {
+    content: "\e905";
+}
+.icon-ppmCustomer-Support:before {
+    content: "\e906";
+}
+.icon-ppmDating-and-Soacial-Search:before {
+    content: "\e907";
+}
+.icon-ppmEducation:before {
+    content: "\e908";
+}
+.icon-ppmEntertainment-and-Media:before {
+    content: "\e909";
+}
+.icon-ppmExpert-counseling-services:before {
+    content: "\e90a";
+}
+.icon-ppmFinance:before {
+    content: "\e90b";
+}
+.icon-ppmGeneral-Features:before {
+    content: "\e90c";
+}
+.icon-ppmHealscare:before {
+    content: "\e90d";
+}
+.icon-ppmIndividual-Experts-Services:before {
+    content: "\e90e";
+}
+.icon-ppmLegal-Support:before {
+    content: "\e90f";
+}
+.icon-ppmProfessinal-Social-Networks:before {
+    content: "\e910";
+}
+.icon-ppmSaas:before {
+    content: "\e911";
+}
+.icon-ppmService-Provider-Statuses:before {
+    content: "\e912";
+}
+.icon-ppmStartups:before {
+    content: "\e913";
+}
+.icon-ppmText--Video--Audio-Chat-Session:before {
+    content: "\e914";
+}
+.icon-ppmvideo:before {
+    content: "\e915";
+}
+.icon-ppmAdvanced-Features:before {
+    content: "\e916";
+}
+
+@font-face {
+    font-family: "icomoon-new";
+    src: url("icomoon-new1594.eot?4ylatj");
+    src: url("icomoon-new1594.eot?4ylatj#iefix") format("embedded-opentype"),
+    url("icomoon-new1594.ttf?4ylatj") format("truetype"),
+    url("icomoon-new1594.woff?4ylatj") format("woff"),
+    url("icomoon-new1594.svg?4ylatj#icomoon-new") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+i[class^="icon-new-"],
+i[class*=" icon-new-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icomoon-new" !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-new-bill-199:before {
+    content: "\10ffff";
+    color: #fff;
+}
+.icon-new-calendar-199:before {
+    content: "\e901";
+    color: #fff;
+}
+.icon-new-video-call-199:before {
+    content: "\e902";
+    color: #fff;
+}
+.icon-new-Amazon_Web_Services_Logo99:before {
+    content: "\e903";
+    color: #49646e;
+}
+.icon-new-Amazon_Web_Services_Logo-199:before {
+    content: "\e904";
+    color: #49646e;
+}
+.icon-new-android-199 .path1:before {
+    content: "\e905";
+    color: rgb(73, 100, 110);
+}
+.icon-new-android-199 .path2:before {
+    content: "\e906";
+    margin-left: -1em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-android-199 .path3:before {
+    content: "\e907";
+    margin-left: -1em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-android-199 .path4:before {
+    content: "\e908";
+    margin-left: -1em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-android-199 .path5:before {
+    content: "\e909";
+    margin-left: -1em;
+    color: rgb(250, 250, 250);
+}
+.icon-new-android-199 .path6:before {
+    content: "\e90a";
+    margin-left: -1em;
+    color: rgb(250, 250, 250);
+}
+.icon-new-Apache_Feather_Logo-199 .path1:before {
+    content: "\e90b";
+    color: rgb(73, 100, 110);
+}
+.icon-new-Apache_Feather_Logo-199 .path2:before {
+    content: "\e90c";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-Apache_Feather_Logo-199 .path3:before {
+    content: "\e90d";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+    opacity: 0.35;
+}
+.icon-new-Apache_Feather_Logo-199 .path4:before {
+    content: "\e90e";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-Apache_Feather_Logo-199 .path5:before {
+    content: "\e90f";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+    opacity: 0.35;
+}
+.icon-new-Apache_Feather_Logo-199 .path6:before {
+    content: "\e910";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-Apache_Feather_Logo-199 .path7:before {
+    content: "\e911";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-Apache_Feather_Logo-199 .path8:before {
+    content: "\e912";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-Apache_Feather_Logo-199 .path9:before {
+    content: "\e913";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-Apache_Feather_Logo-199 .path10:before {
+    content: "\e914";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-Apache_Feather_Logo-199 .path11:before {
+    content: "\e915";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-Apache_Feather_Logo-199 .path12:before {
+    content: "\e916";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+    opacity: 0.35;
+}
+.icon-new-Apache_Feather_Logo-199 .path13:before {
+    content: "\e917";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-Apache_Feather_Logo-199 .path14:before {
+    content: "\e918";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+    opacity: 0.35;
+}
+.icon-new-Apache_Feather_Logo-199 .path15:before {
+    content: "\e919";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-Apache_Feather_Logo-199 .path16:before {
+    content: "\e91a";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+    opacity: 0.35;
+}
+.icon-new-Apache_Feather_Logo-199 .path17:before {
+    content: "\e91b";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-Apache_Feather_Logo-199 .path18:before {
+    content: "\e91c";
+    margin-left: -0.59375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-aws-vpc-1-199 .path1:before {
+    content: "\e91d";
+    color: rgb(73, 100, 110);
+}
+.icon-new-aws-vpc-1-199 .path2:before {
+    content: "\e91e";
+    margin-left: -0.84375em;
+    color: rgb(46, 72, 82);
+}
+.icon-new-aws-vpc-1-199 .path3:before {
+    content: "\e91f";
+    margin-left: -0.84375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-aws-vpc-1-199 .path4:before {
+    content: "\e920";
+    margin-left: -0.84375em;
+    color: rgb(46, 72, 82);
+}
+.icon-new-aws-vpc-1-199 .path5:before {
+    content: "\e921";
+    margin-left: -0.84375em;
+    color: rgb(25, 44, 52);
+}
+.icon-new-aws-vpc-1-199 .path6:before {
+    content: "\e922";
+    margin-left: -0.84375em;
+    color: rgb(46, 72, 82);
+}
+.icon-new-aws-vpc-1-199 .path7:before {
+    content: "\e923";
+    margin-left: -0.84375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-aws-vpc-1-199 .path8:before {
+    content: "\e924";
+    margin-left: -0.84375em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-aws-vpc-1-199 .path9:before {
+    content: "\e925";
+    margin-left: -0.84375em;
+    color: rgb(107, 138, 150);
+}
+.icon-new-Font_Awesome_5_brands_jenkins-199:before {
+    content: "\e926";
+    color: #49646e;
+}
+.icon-new-Google_Material_Design_Logo-199 .path1:before {
+    content: "\e927";
+    color: rgb(73, 100, 110);
+}
+.icon-new-Google_Material_Design_Logo-199 .path2:before {
+    content: "\e928";
+    margin-left: -1em;
+    color: rgb(122, 146, 155);
+}
+.icon-new-Google_Material_Design_Logo-199 .path3:before {
+    content: "\e929";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icon-new-gradle_icon_130917-199:before {
+    content: "\e92a";
+    color: #49646e;
+}
+.icon-new-iconfinder_nginx_4691563-199:before {
+    content: "\e92b";
+    color: #49646e;
+}
+.icon-new-kotlin-199 .path1:before {
+    content: "\e92c";
+    color: rgb(66, 94, 105);
+}
+.icon-new-kotlin-199 .path2:before {
+    content: "\e92d";
+    margin-left: -1em;
+    color: rgb(66, 94, 105);
+}
+.icon-new-kotlin-199 .path3:before {
+    content: "\e92e";
+    margin-left: -1em;
+    color: rgb(86, 120, 130);
+}
+.icon-new-Laravel-199:before {
+    content: "\e92f";
+    color: #49646e;
+}
+.icon-new-mongodb-199 .path1:before {
+    content: "\e930";
+    color: rgb(255, 255, 255);
+}
+.icon-new-mongodb-199 .path2:before {
+    content: "\e931";
+    margin-left: -0.4375em;
+    color: rgb(86, 120, 130);
+}
+.icon-new-mongodb-199 .path3:before {
+    content: "\e932";
+    margin-left: -0.4375em;
+    color: rgb(255, 255, 255);
+}
+.icon-new-mongodb-199 .path4:before {
+    content: "\e933";
+    margin-left: -0.4375em;
+    color: rgb(66, 94, 105);
+}
+.icon-new-mongodb-199 .path5:before {
+    content: "\e934";
+    margin-left: -0.4375em;
+    color: rgb(255, 255, 255);
+}
+.icon-new-mongodb-199 .path6:before {
+    content: "\e935";
+    margin-left: -0.4375em;
+    color: rgb(96, 134, 145);
+}
+.icon-new-MySQL-199:before {
+    content: "\e936";
+    color: #49646e;
+}
+.icon-new-Npm-logo-199 .path1:before {
+    content: "\e937";
+    color: rgb(73, 100, 110);
+}
+.icon-new-Npm-logo-199 .path2:before {
+    content: "\e938";
+    margin-left: -2.4619140625em;
+    color: rgb(255, 255, 255);
+}
+.icon-new-Npm-logo-199 .path3:before {
+    content: "\e939";
+    margin-left: -2.4619140625em;
+    color: rgb(255, 255, 255);
+}
+.icon-new-Npm-logo-199 .path4:before {
+    content: "\e93a";
+    margin-left: -2.4619140625em;
+    color: rgb(255, 255, 255);
+}
+.icon-new-php-199:before {
+    content: "\e93b";
+    color: #49646e;
+}
+.icon-new-Stripe_Logo99:before {
+    content: "\e93c";
+    color: #49646e;
+}
+.icon-new-_revised_2016-199:before {
+    content: "\e93c";
+    color: #49646e;
+}
+.icon-new-Subtract99:before {
+    content: "\e93d";
+    color: #49646e;
+}
+.icon-new-Swift-199:before {
+    content: "\e93e";
+    color: #49646e;
+}
+.icon-new-webrtc-199 .path1:before {
+    content: "\e93f";
+    color: rgb(73, 100, 110);
+}
+.icon-new-webrtc-199 .path2:before {
+    content: "\e940";
+    margin-left: -1.03125em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-webrtc-199 .path3:before {
+    content: "\e941";
+    margin-left: -1.03125em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-webrtc-199 .path4:before {
+    content: "\e942";
+    margin-left: -1.03125em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-webrtc-199 .path5:before {
+    content: "\e943";
+    margin-left: -1.03125em;
+    color: rgb(73, 100, 110);
+}
+.icon-new-webrtc-199 .path6:before {
+    content: "\e944";
+    margin-left: -1.03125em;
+    color: rgb(122, 146, 155);
+}
+.icon-new-webrtc-199 .path7:before {
+    content: "\e945";
+    margin-left: -1.03125em;
+    color: rgb(122, 146, 155);
+}
+.icon-new-webrtc-199 .path8:before {
+    content: "\e946";
+    margin-left: -1.03125em;
+    color: rgb(122, 146, 155);
+}
+.icon-new-webrtc-199 .path9:before {
+    content: "\e947";
+    margin-left: -1.03125em;
+    color: rgb(122, 146, 155);
+}
+.icon-new-webrtc-199 .path10:before {
+    content: "\e948";
+    margin-left: -1.03125em;
+    color: rgb(122, 146, 155);
+}
+.icon-new-webrtc-199 .path11:before {
+    content: "\e949";
+    margin-left: -1.03125em;
+    color: rgb(255, 255, 255);
+}
+.icon-new-call-199:before {
+    content: "\e94a";
+    color: #fff;
+}
+.icon-new-chat-199:before {
+    content: "\e94b";
+    color: #fff;
+}
+.icon-new-login-199:before {
+    content: "\e94c";
+    color: #fff;
+}
+.icon-new-phone-book-199:before {
+    content: "\e94d";
+    color: #fff;
+}
+.icon-new-profile-199:before {
+    content: "\e94e";
+    color: #fff;
+}
+.icon-new-video-call-2-199:before {
+    content: "\e94f";
+    color: #fff;
+}
+.icon-new-analysis-199:before {
+    content: "\e950";
+    color: #fff;
+}
+.icon-new-authentication-199:before {
+    content: "\e951";
+    color: #fff;
+}
+.icon-new-bell-199:before {
+    content: "\e952";
+    color: #fff;
+}
+.icon-new-bill-2-199:before {
+    content: "\e953";
+    color: #fff;
+}
+.icon-new-blocked-199:before {
+    content: "\e954";
+    color: #fff;
+}
+.icon-new-calendar-1-199:before {
+    content: "\e955";
+    color: #fff;
+}
+.icon-new-file-199:before {
+    content: "\e956";
+    color: #fff;
+}
+.icon-new-online-meeting-199:before {
+    content: "\e957";
+    color: #fff;
+}
+.icon-new-online-payment-199:before {
+    content: "\e958";
+    color: #fff;
+}
+.icon-new-payment-method-1-199:before {
+    content: "\e959";
+    color: #fff;
+}
+.icon-new-record-199:before {
+    content: "\e95a";
+    color: #fff;
+}
+.icon-new-referral-199:before {
+    content: "\e95b";
+    color: #fff;
+}
+.icon-new-report-199:before {
+    content: "\e95c";
+    color: #fff;
+}
+.icon-new-schedule-199:before {
+    content: "\e95d";
+    color: #fff;
+}
+.icon-new-video-call-1-199:before {
+    content: "\e95e";
+    color: #fff;
+}
+@font-face {
+    font-family: "fontello";
+    src: url("fonts/fontello941a.eot?67566677");
+    src: url("fonts/fontello941a.eot?67566677#iefix") format("embedded-opentype"),
+    url("fonts/fontello941a.woff2?67566677") format("woff2"),
+    url("fonts/fontello941a.woff?67566677") format("woff"),
+    url("fonts/fontello941a.ttf?67566677") format("truetype"),
+    url("fonts/fontello941a.svg?67566677#fontello") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?67566677#fontello') format('svg');
+  }
+}
+*/
+i[class^="icon-fontello"]:before,
+i[class*=" icon-fontello"]:before {
+    font-family: "fontello";
+    font-style: normal;
+    font-weight: normal;
+    speak: never;
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    /* margin-right: 0.2em; */
+    text-align: center;
+    /* opacity: .8; */
+
+    /* For safety - reset parent styles, that can break glyph codes*/
+    font-variant: normal;
+    text-transform: none;
+
+    /* fix buttons height, for twitter bootstrap */
+    line-height: inherit;
+
+    /* Animation center compensation - margins should be symmetric */
+    /* remove if not needed */
+    /* margin-left: 0.2em; */
+
+    /* you can be more comfortable with increased icons size */
+    /* font-size: 120%; */
+
+    /* Font smoothing. That was taken from TWBS */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    /* Uncomment for 3D effect */
+    /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+.icon-report-1:before {
+    content: "\e800";
+} /* '' */
+.icon-schedule-1:before {
+    content: "\e801";
+} /* '' */
+.icon-video-call-(1)-1:before {
+                          content: "\e802";
+                      } /* '' */
+.icon-analysis-1:before {
+    content: "\e803";
+} /* '' */
+.icon-authentication-1:before {
+    content: "\e804";
+} /* '' */
+.icon-bell-1:before {
+    content: "\e805";
+} /* '' */
+.icon-bill-(2)-1:before {
+                    content: "\e806";
+                } /* '' */
+.icon-blocked-1:before {
+    content: "\e807";
+} /* '' */
+.icon-calendar-(1)-1:before {
+                        content: "\e808";
+                    } /* '' */
+.icon-file-1:before {
+    content: "\e809";
+} /* '' */
+.icon-online-meeting-1:before {
+    content: "\e80a";
+} /* '' */
+.icon-online-payment-1:before {
+    content: "\e80b";
+} /* '' */
+.icon-payment-method-(1)-1:before {
+                              content: "\e80c";
+                          } /* '' */
+.icon-record-1:before {
+    content: "\e80d";
+} /* '' */
+.icon-referral-1:before {
+    content: "\e80e";
+} /* '' */
+.icon-swift-1:before {
+    content: "\e80f";
+} /* '' */
+.icon-webrtc-1:before {
+    content: "\e810";
+} /* '' */
+.icon-amazon_web_services_logo:before {
+    content: "\e811";
+} /* '' */
+.icon-amazon_web_services_logo-1:before {
+    content: "\e812";
+} /* '' */
+.icon-android-1:before {
+    content: "\e813";
+} /* '' */
+.icon-apache_feather_logo-1:before {
+    content: "\e814";
+} /* '' */
+.icon-aws-vpc-1-1:before {
+    content: "\e815";
+} /* '' */
+.icon-font_awesome_5_brands_jenkins-1:before {
+    content: "\e816";
+} /* '' */
+.icon-google_material_design_logo-1:before {
+    content: "\e817";
+} /* '' */
+.icon-gradle_icon_130917-1:before {
+    content: "\e818";
+} /* '' */
+.icon-iconfinder_nginx_4691563-1:before {
+    content: "\e819";
+} /* '' */
+.icon-kotlin-1:before {
+    content: "\e81a";
+} /* '' */
+.icon-laravel-1:before {
+    content: "\e81b";
+} /* '' */
+.icon-mongodb-1:before {
+    content: "\e81c";
+} /* '' */
+.icon-mysql-1:before {
+    content: "\e81d";
+} /* '' */
+.icon-npm-logo-1:before {
+    content: "\e81e";
+} /* '' */
+.icon-php-1:before {
+    content: "\e81f";
+} /* '' */
+.icon-stripe_logo,
+_revised_2016-1:before {
+    content: "\e820";
+} /* '' */
+.icon-subtract:before {
+    content: "\e821";
+} /* '' */
+.icon-phone-book-1:before {
+    content: "\e822";
+} /* '' */
+.icon-profile-1:before {
+    content: "\e823";
+} /* '' */
+.icon-video-call-(2)-1:before {
+                          content: "\e824";
+                      } /* '' */
+.icon-call-1:before {
+    content: "\e825";
+} /* '' */
+.icon-chat-1:before {
+    content: "\e826";
+} /* '' */
+.icon-login-1:before {
+    content: "\e827";
+} /* '' */
+.icon-bill-1:before {
+    content: "\e828";
+} /* '' */
+.icon-calendar-1:before {
+    content: "\e829";
+} /* '' */
+.icon-video-call-1:before {
+    content: "\e82a";
+} /* '' */
+
+@font-face {
+    font-family: "fontello2";
+    src: url("fontellof6a3.eot?98111599");
+    src: url("fontellof6a3.eot?98111599#iefix") format("embedded-opentype"),
+    url("fontellof6a3.woff2?98111599") format("woff2"),
+    url("fontellof6a3.woff?98111599") format("woff"),
+    url("fontellof6a3.ttf?98111599") format("truetype"),
+    url("fontellof6a3.svg?98111599#fontello") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?98111599#fontello') format('svg');
+  }
+}
+*/
+i[class^="icon-fontello2"]:before,
+i[class*=" icon-fontello2"]:before {
+    font-family: "fontello2" !important;
+    font-style: normal;
+    font-weight: normal;
+    speak: never;
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    /* margin-right: 0.2em; */
+    text-align: center;
+    /* opacity: .8; */
+
+    /* For safety - reset parent styles, that can break glyph codes*/
+    font-variant: normal;
+    text-transform: none;
+
+    /* fix buttons height, for twitter bootstrap */
+    /* line-height: 1em; */
+
+    /* Animation center compensation - margins should be symmetric */
+    /* remove if not needed */
+    /* margin-left: 0.2em; */
+
+    /* you can be more comfortable with increased icons size */
+    /* font-size: 120%; */
+
+    /* Font smoothing. That was taken from TWBS */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    /* Uncomment for 3D effect */
+    /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+.icon-stripe_logo:before {
+    content: "\e800";
+    transform: translateX(-75%);
+} /* '' */
+.icon-video-call2:before {
+    content: "\e801";
+} /* '' */
+.icon-calendar2:before {
+    content: "\e802";
+} /* '' */
+.icon-bill2:before {
+    content: "\e803";
+} /* '' */
+.icon-payment-method2:before {
+    content: "\e804";
+} /* '' */
+@font-face {
+    font-family: 'icomoon-page-2';
+    src:  url('icomoon-page-2347b.eot?cm84fd');
+    src:  url('icomoon-page-2347b.eot?cm84fd#iefix') format('embedded-opentype'),
+    url('icomoon-page-2347b.ttf?cm84fd') format('truetype'),
+    url('icomoon-page-2347b.woff?cm84fd') format('woff'),
+    url('icomoon-page-2347b.svg?cm84fd#icomoon-page-2') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icomoon-page-2"], [class*=" icomoon-page-2"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon-page-2' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-page-2Amazon_Web_Services_Logo:before {
+    content: "\e900";
+    color: #49646e;
+}
+.icomoon-page-2aws-dynamodb-1 .path1:before {
+    content: "\e901";
+    color: rgb(111, 138, 148);
+}
+.icomoon-page-2aws-dynamodb-1 .path2:before {
+    content: "\e902";
+    margin-left: -0.90625em;
+    color: rgb(56, 83, 94);
+}
+.icomoon-page-2aws-dynamodb-1 .path3:before {
+    content: "\e903";
+    margin-left: -0.90625em;
+    color: rgb(73, 100, 110);
+}
+.icomoon-page-2aws-dynamodb-1 .path4:before {
+    content: "\e904";
+    margin-left: -0.90625em;
+    color: rgb(39, 60, 68);
+}
+.icomoon-page-2aws-dynamodb-1 .path5:before {
+    content: "\e905";
+    margin-left: -0.90625em;
+    color: rgb(73, 100, 110);
+}
+.icomoon-page-2bar-chart-1:before {
+    content: "\e906";
+    color: #fff;
+}
+.icomoon-page-2cloud-computing-1:before {
+    content: "\e907";
+    color: #fff;
+}
+.icomoon-page-2internet-of-things-1:before {
+    content: "\e908";
+    color: #fff;
+}
+.icomoon-page-2location-1:before {
+    content: "\e909";
+    color: #fff;
+}
+.icomoon-page-2mongodb-1 .path1:before {
+    content: "\e90a";
+    color: rgb(73, 100, 110);
+}
+.icomoon-page-2mongodb-1 .path2:before {
+    content: "\e90b";
+    margin-left: -1.375em;
+    color: rgb(73, 100, 110);
+}
+.icomoon-page-2mongodb-1 .path3:before {
+    content: "\e90c";
+    margin-left: -1.375em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-2mongodb-1 .path4:before {
+    content: "\e90d";
+    margin-left: -1.375em;
+    color: rgb(111, 138, 148);
+}
+.icomoon-page-2mongodb-1 .path5:before {
+    content: "\e90e";
+    margin-left: -1.375em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-2mongodb-1 .path6:before {
+    content: "\e90f";
+    margin-left: -1.375em;
+    color: rgb(73, 100, 110);
+}
+.icomoon-page-2mongodb-1 .path7:before {
+    content: "\e910";
+    margin-left: -1.375em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-2mongodb-1 .path8:before {
+    content: "\e911";
+    margin-left: -1.375em;
+    color: rgb(96, 122, 132);
+}
+.icomoon-page-2nodejs-icon:before {
+    content: "\e912";
+    color: #49646e;
+}
+.icomoon-page-2quote-1:before {
+    content: "\e913";
+    color: #fff;
+}
+.icomoon-page-2quote-2:before {
+    content: "\e914";
+    color: #fff;
+}
+.icomoon-page-2React-icon:before {
+    content: "\e915";
+    color: #49646e;
+}
+.icomoon-page-2rest-api:before {
+    content: "\e916";
+    color: #49646e;
+}
+@font-face {
+    font-family: 'icomoon-page-3';
+    src:  url('icomoon-page-3f273.eot?e2it7p');
+    src:  url('icomoon-page-3f273.eot?e2it7p#iefix') format('embedded-opentype'),
+    url('icomoon-page-3f273.ttf?e2it7p') format('truetype'),
+    url('icomoon-page-3f273.woff?e2it7p') format('woff'),
+    url('icomoon-page-3f273.svg?e2it7p#icomoon-page-3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+.icon-pp-8 {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon-page-3' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-page-3-Layer-2 .path1:before {
+    content: "\e900";
+    color: rgb(73, 100, 110);
+}
+.icomoon-page-3-Layer-2 .path2:before {
+    content: "\e901";
+    margin-left: -0.9375em;
+    color: rgb(73, 100, 110);
+}
+.icomoon-page-3-Layer-2 .path3:before {
+    content: "\e902";
+    margin-left: -0.9375em;
+    color: rgb(142, 171, 182);
+}
+.icomoon-page-3-Layer-2 .path4:before {
+    content: "\e903";
+    margin-left: -0.9375em;
+    color: rgb(188, 214, 224);
+}
+.icomoon-page-3-Layer-2 .path5:before {
+    content: "\e904";
+    margin-left: -0.9375em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-3-active-1:before {
+    content: "\e905";
+    color: #fff;
+}
+.icomoon-page-3-apps-1:before {
+    content: "\e906";
+    color: #fff;
+}
+.icomoon-page-3-calculator-1-1:before {
+    content: "\e907";
+    color: #fff;
+}
+.icomoon-page-3-calculator-1:before {
+    content: "\e908";
+    color: #fff;
+}
+.icomoon-page-3-checked-1:before {
+    content: "\e909";
+    color: #fff;
+}
+.icomoon-page-3-edit-1:before {
+    content: "\e90a";
+    color: #fff;
+}
+
+@font-face {
+    font-family: 'icomoon-page-3-1';
+    src:  url('icomoon-page-3-1b247.eot?af1rau');
+    src:  url('icomoon-page-3-1b247.eot?af1rau#iefix') format('embedded-opentype'),
+    url('icomoon-page-3-1b247.ttf?af1rau') format('truetype'),
+    url('icomoon-page-3-1b247.woff?af1rau') format('woff'),
+    url('icomoon-page-3-1b247.svg?af1rau#icomoon-page-3-1') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+.icon {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon-page-3-1' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-page-3-1-transfer-2-1:before {
+    content: "\e900";
+    color: #fff;
+}
+
+@font-face {
+    font-family: 'icomoon-page-44-1';
+    src:  url('icomoon-page-44-1100c.eot?v5f090');
+    src:  url('icomoon-page-44-1100c.eot?v5f090#iefix') format('embedded-opentype'),
+    url('icomoon-page-44-1100c.ttf?v5f090') format('truetype'),
+    url('icomoon-page-44-1100c.woff?v5f090') format('woff'),
+    url('icomoon-page-44-1100c.svg?v5f090#icomoon-page-44-1') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+.icon {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon-page-44-1' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-page-44-1-agent-1:before {
+    content: "\e900";
+    color: #ee7f1a;
+}
+.icomoon-page-44-1-air-conditioning-1:before {
+    content: "\e901";
+    color: #fff;
+}
+.icomoon-page-44-1-alarm-1:before {
+    content: "\e902";
+    color: #fff;
+}
+.icomoon-page-44-1-Amazon-VPC-1:before {
+    content: "\e903";
+    color: #49646e;
+}
+.icomoon-page-44-1-Android:before {
+    content: "\e904";
+    color: #49646e;
+}
+.icomoon-page-44-1-Angular-1:before {
+    content: "\e905";
+    color: #49646e;
+}
+.icomoon-page-44-1-Apache-1:before {
+    content: "\e906";
+    color: #49646e;
+}
+.icomoon-page-44-1-AWS-1:before {
+    content: "\e907";
+    color: #49646e;
+}
+.icomoon-page-44-1-AWS-Elastic-Beanstalk-1 .path1:before {
+    content: "\e908";
+    color: rgb(65, 93, 105);
+}
+.icomoon-page-44-1-AWS-Elastic-Beanstalk-1 .path2:before {
+    content: "\e909";
+    margin-left: -1em;
+    color: rgb(95, 133, 144);
+}
+.icomoon-page-44-1-AWS-Elastic-Beanstalk-1 .path3:before {
+    content: "\e90a";
+    margin-left: -1em;
+    color: rgb(65, 93, 105);
+}
+.icomoon-page-44-1-AWS-Elastic-Beanstalk-1 .path4:before {
+    content: "\e90b";
+    margin-left: -1em;
+    color: rgb(95, 133, 144);
+}
+.icomoon-page-44-1-AWS-Elastic-Beanstalk-1 .path5:before {
+    content: "\e90c";
+    margin-left: -1em;
+    color: rgb(43, 62, 68);
+}
+.icomoon-page-44-1-AWS-Elastic-Beanstalk-1 .path6:before {
+    content: "\e90d";
+    margin-left: -1em;
+    color: rgb(95, 133, 144);
+}
+.icomoon-page-44-1-AWS-Elastic-Beanstalk-1 .path7:before {
+    content: "\e90e";
+    margin-left: -1em;
+    color: rgb(65, 93, 105);
+}
+.icomoon-page-44-1-AWS-Elastic-Beanstalk-1 .path8:before {
+    content: "\e90f";
+    margin-left: -1em;
+    color: rgb(111, 153, 163);
+}
+.icomoon-page-44-1-bill-1:before {
+    content: "\e910";
+    color: #fff;
+}
+.icomoon-page-44-1-chat-1:before {
+    content: "\e911";
+    color: #fff;
+}
+.icomoon-page-44-1-checked-1:before {
+    content: "\e912";
+    color: #fff;
+}
+.icomoon-page-44-1-credit-card-1:before {
+    content: "\e913";
+    color: #fff;
+}
+.icomoon-page-44-1-document-1:before {
+    content: "\e914";
+    color: #fff;
+}
+.icomoon-page-44-1-electrical-appliance-1:before {
+    content: "\e915";
+    color: #fff;
+}
+.icomoon-page-44-1-gas-1:before {
+    content: "\e916";
+    color: #fff;
+}
+.icomoon-page-44-1-gradle-icon-1 .path1:before {
+    content: "\e917";
+    color: rgb(73, 100, 110);
+}
+.icomoon-page-44-1-gradle-icon-1 .path2:before {
+    content: "\e918";
+    margin-left: -1em;
+    color: rgb(73, 100, 110);
+}
+.icomoon-page-44-1-gradle-icon-1 .path3:before {
+    content: "\e919";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-44-1-gradle-icon-1 .path4:before {
+    content: "\e91a";
+    margin-left: -1em;
+    color: rgb(73, 100, 110);
+}
+.icomoon-page-44-1-gradle-icon-1 .path5:before {
+    content: "\e91b";
+    margin-left: -1em;
+    color: rgb(73, 100, 110);
+}
+.icomoon-page-44-1-Group-10 .path1:before {
+    content: "\e91c";
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-44-1-Group-10 .path2:before {
+    content: "\e91d";
+    margin-left: -1em;
+    color: rgb(73, 100, 110);
+}
+.icomoon-page-44-1-Group-186 .path1:before {
+    content: "\e91e";
+    color: rgb(4, 32, 43);
+}
+.icomoon-page-44-1-Group-186 .path2:before {
+    content: "\e91f";
+    margin-left: -1em;
+    color: rgb(239, 138, 46);
+}
+.icomoon-page-44-1-Group-186 .path3:before {
+    content: "\e920";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-44-1-Group-186 .path3:before {
+    content: "\e921";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-44-1-Group-186 .path5:before {
+    content: "\e922";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-44-1-Group-186 .path6:before {
+    content: "\e923";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-44-1-Group-186 .path7:before {
+    content: "\e924";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-44-1-Group-186 .path8:before {
+    content: "\e925";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-44-1-jenkins-1 .path1:before {
+    content: "\e926";
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path2:before {
+    content: "\e927";
+    margin-left: -1em;
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-44-1-jenkins-1 .path3:before {
+    content: "\e928";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path4:before {
+    content: "\e929";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path5:before {
+    content: "\e92a";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path6:before {
+    content: "\e92b";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path7:before {
+    content: "\e92c";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path8:before {
+    content: "\e92d";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path9:before {
+    content: "\e92e";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path10:before {
+    content: "\e92f";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path11:before {
+    content: "\e930";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path12:before {
+    content: "\e931";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path13:before {
+    content: "\e932";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path14:before {
+    content: "\e933";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path15:before {
+    content: "\e934";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path16:before {
+    content: "\e935";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path17:before {
+    content: "\e936";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path18:before {
+    content: "\e937";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path19:before {
+    content: "\e938";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path20:before {
+    content: "\e939";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path21:before {
+    content: "\e93a";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path22:before {
+    content: "\e93b";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path23:before {
+    content: "\e93c";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path24:before {
+    content: "\e93d";
+    margin-left: -1em;
+    color: none;
+}
+.icomoon-page-44-1-jenkins-1 .path25:before {
+    content: "\e93e";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path26:before {
+    content: "\e93f";
+    margin-left: -1em;
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-44-1-jenkins-1 .path27:before {
+    content: "\e940";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path28:before {
+    content: "\e941";
+    margin-left: -1em;
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-44-1-jenkins-1 .path29:before {
+    content: "\e942";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path30:before {
+    content: "\e943";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path31:before {
+    content: "\e944";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path32:before {
+    content: "\e945";
+    margin-left: -1em;
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-44-1-jenkins-1 .path33:before {
+    content: "\e946";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-44-1-jenkins-1 .path34:before {
+    content: "\e947";
+    margin-left: -1em;
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-44-1-kotlin-1 .path1:before {
+    content: "\e948";
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-44-1-kotlin-1 .path2:before {
+    content: "\e949";
+    margin-left: -1em;
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-44-1-kotlin-1 .path3:before {
+    content: "\e94a";
+    margin-left: -1em;
+    color: rgb(86, 120, 130);
+}
+.icomoon-page-44-1-landlord-1-1:before {
+    content: "\e94b";
+    color: #ee7f1a;
+}
+.icomoon-page-44-1-landlord-1:before {
+    content: "\e94c";
+    color: #ee7f1a;
+}
+.icomoon-page-44-1-Laravel-1:before {
+    content: "\e94d";
+    color: #49646e;
+}
+.icomoon-page-44-1-material .path1:before {
+    content: "\e94e";
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-44-1-material .path2:before {
+    content: "\e94f";
+    margin-left: -1em;
+    color: rgb(96, 134, 145);
+}
+.icomoon-page-44-1-material .path3:before {
+    content: "\e950";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-44-1-mechanic-1:before {
+    content: "\e951";
+    color: #fff;
+}
+.icomoon-page-44-1-mongodb-1 .path1:before {
+    content: "\e952";
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-44-1-mongodb-1 .path2:before {
+    content: "\e953";
+    margin-left: -1em;
+    color: rgb(86, 120, 130);
+}
+.icomoon-page-44-1-mongodb-1 .path3:before {
+    content: "\e954";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-44-1-mongodb-1 .path4:before {
+    content: "\e955";
+    margin-left: -1em;
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-44-1-mongodb-1 .path5:before {
+    content: "\e956";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-44-1-mongodb-1 .path6:before {
+    content: "\e957";
+    margin-left: -1em;
+    color: rgb(96, 134, 145);
+}
+.icomoon-page-44-1-MySQL-1:before {
+    content: "\e958";
+    color: #49646e;
+}
+.icomoon-page-44-1-nginx-1:before {
+    content: "\e959";
+    color: #49646e;
+}
+.icomoon-page-44-1-Npm-logo-1 .path1:before {
+    content: "\e95a";
+    color: rgb(73, 100, 110);
+}
+.icomoon-page-44-1-Npm-logo-1 .path2:before {
+    content: "\e95b";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-44-1-Npm-logo-1 .path3:before {
+    content: "\e95c";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-44-1-Npm-logo-1 .path4:before {
+    content: "\e95d";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icomoon-page-44-1-phone-call-1:before {
+    content: "\e95e";
+    color: #fff;
+}
+.icomoon-page-44-1-php-1:before {
+    content: "\e95f";
+    color: #49646e;
+}
+.icomoon-page-44-1-pipeline-1:before {
+    content: "\e960";
+    color: #fff;
+}
+.icomoon-page-44-1-plug-1:before {
+    content: "\e961";
+    color: #fff;
+}
+.icomoon-page-44-1-quote-1:before {
+    content: "\e962";
+    color: #c01d3d;
+}
+.icomoon-page-44-1-quote-2:before {
+    content: "\e963";
+    color: #c01d3d;
+}
+.icomoon-page-44-1-stripe-1:before {
+    content: "\e964";
+    color: #49646e;
+}
+.icomoon-page-44-1-Swift-1:before {
+    content: "\e965";
+    color: #49646e;
+}
+.icomoon-page-44-1-team-1:before {
+    content: "\e966";
+    color: #ee7f1a;
+}
+.icomoon-page-44-1-tenant-1:before {
+    content: "\e967";
+    color: #ee7f1a;
+}
+.icomoon-page-44-1-Tokbox-1:before {
+    content: "\e968";
+    color: #49646e;
+}
+.icomoon-page-44-1-video-camera-1:before {
+    content: "\e969";
+    color: #fff;
+}
+.icomoon-page-44-1-webrtc-1 .path1:before {
+    content: "\e96a";
+    color: rgb(96, 134, 145);
+}
+.icomoon-page-44-1-webrtc-1 .path2:before {
+    content: "\e96b";
+    margin-left: -1em;
+    color: rgb(96, 134, 145);
+}
+.icomoon-page-44-1-webrtc-1 .path3:before {
+    content: "\e96c";
+    margin-left: -1em;
+    color: rgb(96, 134, 145);
+}
+.icomoon-page-44-1-webrtc-1 .path4:before {
+    content: "\e96d";
+    margin-left: -1em;
+    color: rgb(96, 134, 145);
+}
+.icomoon-page-44-1-webrtc-1 .path5:before {
+    content: "\e96e";
+    margin-left: -1em;
+    color: rgb(96, 134, 145);
+}
+.icomoon-page-44-1-webrtc-1 .path6:before {
+    content: "\e96f";
+    margin-left: -1em;
+    color: rgb(71, 100, 109);
+}
+.icomoon-page-44-1-webrtc-1 .path7:before {
+    content: "\e970";
+    margin-left: -1em;
+    color: rgb(71, 100, 109);
+}
+.icomoon-page-44-1-webrtc-1 .path8:before {
+    content: "\e971";
+    margin-left: -1em;
+    color: rgb(71, 100, 109);
+}
+.icomoon-page-44-1-webrtc-1 .path9:before {
+    content: "\e972";
+    margin-left: -1em;
+    color: rgb(71, 100, 109);
+}
+.icomoon-page-44-1-webrtc-1 .path10:before {
+    content: "\e973";
+    margin-left: -1em;
+    color: rgb(71, 100, 109);
+}
+.icomoon-page-44-1-webrtc-1 .path11:before {
+    content: "\e974";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+
+/*page 5*/
+@font-face {
+    font-family: 'icomoon-page-5-';
+    src:  url('icomoon-page-5-6ffe.eot?m7zxan');
+    src:  url('icomoon-page-5-6ffe.eot?m7zxan#iefix') format('embedded-opentype'),
+    url('icomoon-page-5-6ffe.ttf?m7zxan') format('truetype'),
+    url('icomoon-page-5-6ffe.woff?m7zxan') format('woff'),
+    url('icomoon-page-5-6ffe.svg?m7zxan#icomoon-page-5-') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+.icon {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon-page-5-' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-page-5-page-5-Amazon-VPC-1:before {
+    content: "\e900";
+    color: #49646e;
+}
+.icomoon-page-5-page-5-Apache-1:before {
+    content: "\e901";
+    color: #49646e;
+}
+.icomoon-page-5-page-5AWS-Elastic-Beanstalk-1 .path1:before {
+    content: "\e902";
+    color: rgb(65, 93, 105);
+}
+.icomoon-page-5-page-5AWS-Elastic-Beanstalk-1 .path2:before {
+    content: "\e903";
+    margin-left: -1em;
+    color: rgb(95, 133, 144);
+}
+.icomoon-page-5-page-5AWS-Elastic-Beanstalk-1 .path3:before {
+    content: "\e904";
+    margin-left: -1em;
+    color: rgb(65, 93, 105);
+}
+.icomoon-page-5-page-5AWS-Elastic-Beanstalk-1 .path4:before {
+    content: "\e905";
+    margin-left: -1em;
+    color: rgb(95, 133, 144);
+}
+.icomoon-page-5-page-5AWS-Elastic-Beanstalk-1 .path5:before {
+    content: "\e906";
+    margin-left: -1em;
+    color: rgb(43, 62, 68);
+}
+.icomoon-page-5-page-5AWS-Elastic-Beanstalk-1 .path6:before {
+    content: "\e907";
+    margin-left: -1em;
+    color: rgb(95, 133, 144);
+}
+.icomoon-page-5-page-5AWS-Elastic-Beanstalk-1 .path7:before {
+    content: "\e908";
+    margin-left: -1em;
+    color: rgb(65, 93, 105);
+}
+.icomoon-page-5-page-5AWS-Elastic-Beanstalk-1 .path8:before {
+    content: "\e909";
+    margin-left: -1em;
+    color: rgb(111, 153, 163);
+}
+.icomoon-page-5-page-5-AWS-1:before {
+    content: "\e90a";
+    color: #49646e;
+}
+.icomoon-page-5-page-5-aws-rds-1 .path1:before {
+    content: "\e90b";
+    color: rgb(67, 95, 106);
+}
+.icomoon-page-5-page-5-aws-rds-1 .path2:before {
+    content: "\e90c";
+    margin-left: -1em;
+    color: rgb(70, 104, 112);
+}
+.icomoon-page-5-page-5-aws-rds-1 .path3:before {
+    content: "\e90d";
+    margin-left: -1em;
+    color: rgb(86, 120, 130);
+}
+.icomoon-page-5-page-5-aws-rds-1 .path4:before {
+    content: "\e90e";
+    margin-left: -1em;
+    color: rgb(96, 134, 145);
+}
+.icomoon-page-5-page-5-aws-rds-1 .path5:before {
+    content: "\e90f";
+    margin-left: -1em;
+    color: rgb(86, 120, 130);
+}
+.icomoon-page-5-page-5-bank-1:before {
+    content: "\e910";
+    color: #fff;
+}
+.icomoon-page-5-page-5-Chat:before {
+    content: "\e911";
+    color: #fff;
+}
+.icomoon-page-5-page-5-design-1:before {
+    content: "\e912";
+    color: #fff;
+}
+.icomoon-page-5-page-5eWAY:before {
+    content: "\e913";
+    color: #425e69;
+}
+.icomoon-page-5-page-5-eway .path1:before {
+    content: "\e914";
+    color: rgb(96, 134, 145);
+}
+.icomoon-page-5-page-5-eway .path2:before {
+    content: "\e915";
+    margin-left: -1em;
+    color: rgb(67, 95, 106);
+}
+.icomoon-page-5-page-5-eway .path3:before {
+    content: "\e916";
+    margin-left: -1em;
+    color: rgb(67, 95, 106);
+}
+.icomoon-page-5-page-5-eway .path4:before {
+    content: "\e917";
+    margin-left: -1em;
+    color: rgb(67, 95, 106);
+}
+.icomoon-page-5-page-5-eway .path5:before {
+    content: "\e918";
+    margin-left: -1em;
+    color: rgb(67, 95, 106);
+}
+.icomoon-page-5-page-5-eway .path6:before {
+    content: "\e919";
+    margin-left: -1em;
+    color: rgb(67, 95, 106);
+}
+.icomoon-page-5-page-5-eway .path7:before {
+    content: "\e91a";
+    margin-left: -1em;
+    color: rgb(67, 95, 106);
+}
+.icomoon-page-5-page-5-eway .path8:before {
+    content: "\e91b";
+    margin-left: -1em;
+    color: rgb(67, 95, 106);
+}
+.icomoon-page-5-page-5-eway .path9:before {
+    content: "\e91c";
+    margin-left: -1em;
+    color: rgb(67, 95, 106);
+}
+.icomoon-page-5-page-5-eway .path10:before {
+    content: "\e91d";
+    margin-left: -1em;
+    color: rgb(67, 95, 106);
+}
+.icomoon-page-5-page-5-eway .path11:before {
+    content: "\e91e";
+    margin-left: -1em;
+    color: rgb(96, 134, 145);
+}
+.icomoon-page-5-page-5-eway .path12:before {
+    content: "\e91f";
+    margin-left: -1em;
+    color: rgb(67, 95, 106);
+}
+.icomoon-page-5-page-5-eway .path13:before {
+    content: "\e920";
+    margin-left: -1em;
+    color: rgb(255, 255, 254);
+}
+.icomoon-page-5-page-5-Group-179:before {
+    content: "\e921";
+    color: #009ed5;
+}
+.icomoon-page-5-page-5-investment-model-1:before {
+    content: "\e922";
+    color: #fff;
+}
+.icomoon-page-5-page-5-jenkins-1 .path1:before {
+    content: "\e923";
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path2:before {
+    content: "\e924";
+    margin-left: -1em;
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-5-page-5-jenkins-1 .path3:before {
+    content: "\e925";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path4:before {
+    content: "\e926";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path5:before {
+    content: "\e927";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path6:before {
+    content: "\e928";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path7:before {
+    content: "\e929";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path8:before {
+    content: "\e92a";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path9:before {
+    content: "\e92b";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path10:before {
+    content: "\e92c";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path11:before {
+    content: "\e92d";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path12:before {
+    content: "\e92e";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path13:before {
+    content: "\e92f";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path14:before {
+    content: "\e930";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path15:before {
+    content: "\e931";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path16:before {
+    content: "\e932";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path17:before {
+    content: "\e933";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path18:before {
+    content: "\e934";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path19:before {
+    content: "\e935";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path20:before {
+    content: "\e936";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path21:before {
+    content: "\e937";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path22:before {
+    content: "\e938";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path23:before {
+    content: "\e939";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path24:before {
+    content: "\e93a";
+    margin-left: -1em;
+    color: none;
+}
+.icomoon-page-5-page-5-jenkins-1 .path25:before {
+    content: "\e93b";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path26:before {
+    content: "\e93c";
+    margin-left: -1em;
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-5-page-5-jenkins-1 .path27:before {
+    content: "\e93d";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path28:before {
+    content: "\e93e";
+    margin-left: -1em;
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-5-page-5-jenkins-1 .path29:before {
+    content: "\e93f";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path30:before {
+    content: "\e940";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path31:before {
+    content: "\e941";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path32:before {
+    content: "\e942";
+    margin-left: -1em;
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-5-page-5-jenkins-1 .path33:before {
+    content: "\e943";
+    margin-left: -1em;
+    color: rgb(246, 246, 246);
+}
+.icomoon-page-5-page-5-jenkins-1 .path34:before {
+    content: "\e944";
+    margin-left: -1em;
+    color: rgb(66, 94, 105);
+}
+.icomoon-page-5-page-5-monetization-1:before {
+    content: "\e945";
+    color: #fff;
+}
+.icomoon-page-5-page-5-num1:before {
+    content: "\e946";
+    color: #009ed5;
+}
+.icomoon-page-5-page-5-num2:before {
+    content: "\e947";
+    color: #009ed5;
+}
+.icomoon-page-5-page-5-num3:before {
+    content: "\e948";
+    color: #009ed5;
+}
+.icomoon-page-5-page-5-num4:before {
+    content: "\e949";
+    color: #009ed5;
+}
+.icomoon-page-5-page-5-Rails1:before {
+    content: "\e94a";
+    color: #49646e;
+}
+.icomoon-page-5-page-5-user-1:before {
+    content: "\e94b";
+    color: #fff;
+}
+.icomoon-page-5-page-5-ux:before {
+    content: "\e94c";
+    color: #fff;
+}
+.icomoon-page-5-page-5-websocket1:before {
+    content: "\e94d";
+    color: #49646e;
+}
+
+/*page seven icons*/
+@font-face {
+    font-family: 'icomoon-page-7';
+    src:  url('icomoon-page-788c8.eot?32hr7u');
+    src:  url('icomoon-page-788c8.eot?32hr7u#iefix') format('embedded-opentype'),
+    url('icomoon-page-788c8.ttf?32hr7u') format('truetype'),
+    url('icomoon-page-788c8.woff?32hr7u') format('woff'),
+    url('icomoon-page-788c8.svg?32hr7u#icomoon-page-7') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-7pp-"], [class*=" icon-7pp-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon-page-7' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-7pp-Amazon_Elastic_Compute_Cloud-Logowine-1:before {
+    content: "\e900";
+    color: #49646e;
+}
+.icon-7pp-Angular-1:before {
+    content: "\e901";
+    color: #49646e;
+}
+.icon-7pp-Apache-1:before {
+    content: "\e902";
+    color: #49646e;
+}
+.icon-7pp-AWS-1:before {
+    content: "\e903";
+    color: #49646e;
+}
+.icon-7pp-book-1-4:before {
+    content: "\e904";
+    color: #fff;
+}
+.icon-7pp-business-1:before {
+    content: "\e905";
+    color: #fff;
+}
+.icon-7pp-calendar-1:before {
+    content: "\e906";
+    color: #fff;
+}
+.icon-7pp-clipboard-1-1:before {
+    content: "\e907";
+    color: #009ed5;
+}
+.icon-7pp-clipboard-1:before {
+    content: "\e908";
+    color: #fff;
+}
+.icon-7pp-discount-1:before {
+    content: "\e909";
+    color: #fff;
+}
+.icon-7pp-evaluation:before {
+    content: "\e90a";
+    color: #fff;
+}
+.icon-7pp-event-1:before {
+    content: "\e90b";
+    color: #009ed5;
+}
+
+.icon-7pp-home-office-1:before {
+    content: "\e910";
+    color: #fff;
+}
+.icon-7pp-JQuery-Logo:before {
+    content: "\e911";
+    color: #49646e;
+}
+.icon-7pp-JS:before {
+    content: "\e912";
+    color: #49646e;
+}
+.icon-7pp-KeyFunctionalityaccountant:before {
+    content: "\e913";
+    color: #fff;
+}
+.icon-7pp-KeyFunctionalityadministrator:before {
+    content: "\e914";
+    color: #fff;
+}
+.icon-7pp-KeyFunctionalityanalytics-1:before {
+    content: "\e915";
+    color: #009ed5;
+}
+.icon-7pp-KeyFunctionalitybudget-1:before {
+    content: "\e916";
+    color: #fff;
+}
+.icon-7pp-KeyFunctionalitycalendar:before {
+    content: "\e917";
+    color: #fff;
+}
+.icon-7pp-KeyFunctionalityengineer-1:before {
+    content: "\e918";
+    color: #fff;
+}
+.icon-7pp-KeyFunctionalityevent-1-1:before {
+    content: "\e919";
+    color: #fff;
+}
+.icon-7pp-KeyFunctionalityfilter-1:before {
+    content: "\e91a";
+    color: #009ed5;
+}
+.icon-7pp-KeyFunctionalityinvoice-1:before {
+    content: "\e91b";
+    color: #009ed5;
+}
+.icon-7pp-KeyFunctionalitymail-1:before {
+    content: "\e91c";
+    color: #009ed5;
+}
+.icon-7pp-KeyFunctionalityoffice-worker:before {
+    content: "\e91d";
+    color: #fff;
+}
+.icon-7pp-KeyFunctionalityquestion-1-1:before {
+    content: "\e91e";
+    color: #009ed5;
+}
+.icon-7pp-KeyFunctionalityReact-icon:before {
+    content: "\e91f";
+    color: #49646e;
+}
+.icon-7pp-KeyFunctionalitysave-file-1:before {
+    content: "\e920";
+    color: #fff;
+}
+.icon-7pp-KeyFunctionalityuser:before {
+    content: "\e921";
+    color: #009ed5;
+}
+.icon-7pp-KeyFunctionalitywardrobe-1-1:before {
+    content: "\e922";
+    color: #fff;
+}
+.icon-7pp-KeyFunctionalitywardrobe-1:before {
+    content: "\e923";
+    color: #fff;
+}
+.icon-7pp-KeyFunctionalityworkers:before {
+    content: "\e924";
+    color: #fff;
+}
+.icon-7pp-Laravel-1:before {
+    content: "\e925";
+    color: #49646e;
+}
+.icon-7pp-learning-1:before {
+    content: "\e926";
+    color: #fff;
+}
+.icon-7pp-location-2:before {
+    content: "\e927";
+    color: #fff;
+}
+.icon-7pp-logo-2:before {
+    content: "\e928";
+    color: #49646e;
+}
+.icon-7pp-meeting-1:before {
+    content: "\e929";
+    color: #fff;
+}
+.icon-7pp-message-1:before {
+    content: "\e92a";
+    color: #fff;
+}
+
+.icon-7pp-MySQL-1:before {
+    content: "\e932";
+    color: #49646e;
+}
+.icon-7pp-office-worker:before {
+    content: "\e933";
+    color: #fff;
+}
+.icon-7pp-online-learning-1:before {
+    content: "\e934";
+    color: #fff;
+}
+.icon-7pp-Paymentsense:before {
+    content: "\e935";
+    color: #49646e;
+}
+.icon-7pp-php-1:before {
+    content: "\e936";
+    color: #49646e;
+}
+.icon-7pp-processing-1:before {
+    content: "\e937";
+    color: #fff;
+}
+.icon-7pp-question-1:before {
+    content: "\e938";
+    color: #fff;
+}
+.icon-7pp-secure-payment-1:before {
+    content: "\e939";
+    color: #fff;
+}
+.icon-7pp-stripe-1:before {
+    content: "\e93a";
+    color: #49646e;
+}
+.icon-7pp-teacher-1:before {
+    content: "\e93b";
+    color: #fff;
+}
+.icon-7pp-user-1:before {
+    content: "\e93c";
+    color: #fff;
+}
+.icon-7pp-work-1:before {
+    content: "\e93d";
+    color: #fff;
+}
+
+/*@font-face {
+    font-family: 'icomoon-page-12';
+    src:  url('icomoon-page-12.eot?vhej6g');
+    src:  url('icomoon-page-12.eot?vhej6g#iefix') format('embedded-opentype'),
+    url('icomoon-page-12.ttf?vhej6g') format('truetype'),
+    url('icomoon-page-12.woff?vhej6g') format('woff'),
+    url('icomoon-page-12.svg?vhej6g#icomoon-page-12') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+.icon {
+    font-family: 'icomoon-page-12' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-page-12-evaluation:before {
+    content: "\e900";
+    color: #fff;
+}
+.icomoon-page-12-video:before {
+    content: "\e901";
+    color: #fff;
+}*/
+
+@font-face {
+  font-family: 'icomoon-2023';
+  src:  url('icons-2023/icomoon-2023f3e4.eot?kb31mb');
+  src:  url('icons-2023/icomoon-2023f3e4.eot?kb31mb#iefix') format('embedded-opentype'),
+    url('icons-2023/icomoon-2023f3e4.ttf?kb31mb') format('truetype'),
+    url('icons-2023/icomoon-2023f3e4.woff?kb31mb') format('woff'),
+    url('icons-2023/icomoon-2023f3e4.svg?kb31mb#icomoon-2023') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-2023"], [class*=" icon-2023"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon-2023' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-2023ai:before {
+  content: "\e900";
+}
+.icon-2023technologies:before {
+  content: "\e901";
+}
+.icon-2023compliances:before {
+  content: "\e902";
+}
+
+@font-face {
+  font-family: 'icomoon-2023-btn';
+  src:  url('next-btn/icomoon-2023-btn2876.eot?i0bokg');
+  src:  url('next-btn/icomoon-2023-btn2876.eot?i0bokg#iefix') format('embedded-opentype'),
+    url('next-btn/icomoon-2023-btn2876.ttf?i0bokg') format('truetype'),
+    url('next-btn/icomoon-2023-btn2876.woff?i0bokg') format('woff'),
+    url('next-btn/icomoon-2023-btn2876.svg?i0bokg#icomoon-2023-btn') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-2023-btn"], [class*=" icon-2023-btn"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon-2023-btn' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-2023-btngo-to-top-btn:before {
+  content: "\e904";
+}
+
+@font-face {
+    font-family: 'icomoon-dev-2023';
+    src:  url('icons-dev-2023/icomoon-dev-20237646.eot?xcbjct');
+    src:  url('icons-dev-2023/icomoon-dev-20237646.eot?xcbjct#iefix') format('embedded-opentype'),
+    url('icons-dev-2023/icomoon-dev-20237646.ttf?xcbjct') format('truetype'),
+    url('icons-dev-2023/icomoon-dev-20237646.woff?xcbjct') format('woff'),
+    url('icons-dev-2023/icomoon-dev-20237646.svg?xcbjct#icomoon-dev-2023') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-dev-2023"], [class*=" icon-dev-2023"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon-dev-2023' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-dev-2023add-in:before {
+    content: "\e900";
+}
+.icon-dev-2023api:before {
+    content: "\e901";
+}
+.icon-dev-2023cross-platform:before {
+    content: "\e902";
+}
+.icon-dev-2023desktop:before {
+    content: "\e903";
+}
+.icon-dev-2023Drivers:before {
+    content: "\e904";
+}
+.icon-dev-2023extension:before {
+    content: "\e905";
+}
+.icon-dev-2023plug-in:before {
+    content: "\e906";
+}
+.icon-dev-2023Web:before {
+    content: "\e907";
+}
+
+@font-face {
+  font-family: 'icomoon-socials-2023';
+  src:  url('socials-2023/icomoon-socials-202310c0.eot?axlq14');
+  src:  url('socials-2023/icomoon-socials-202310c0.eot?axlq14#iefix') format('embedded-opentype'),
+    url('socials-2023/icomoon-socials-202310c0.ttf?axlq14') format('truetype'),
+    url('socials-2023/icomoon-socials-202310c0.woff?axlq14') format('woff'),
+    url('socials-2023/icomoon-socials-202310c0.svg?axlq14#icomoon-socials-2023') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-socials-2023"], [class*=" icon-socials-2023"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon-socials-2023' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-socials-2023whatsapp:before {
+  content: "\e900";
+}
+.icon-socials-2023facebook:before {
+  content: "\e901";
+}
+.icon-socials-2023email:before {
+  content: "\e902";
+}
+.icon-socials-2023twitter:before {
+  content: "\e903";
+}
+.icon-socials-2023linkedin:before {
+  content: "\e904";
+}
+
+@font-face {
+  font-family: 'icomoon-homepage-2023';
+  src:  url('homepage-2023/icomoon-homepage-2023d20f.eot?qmygs6');
+  src:  url('homepage-2023/icomoon-homepage-2023d20f.eot?qmygs6#iefix') format('embedded-opentype'),
+    url('homepage-2023/icomoon-homepage-2023d20f.ttf?qmygs6') format('truetype'),
+    url('homepage-2023/icomoon-homepage-2023d20f.woff?qmygs6') format('woff'),
+    url('homepage-2023/icomoon-homepage-2023d20f.svg?qmygs6#icomoon-homepage-2023') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-homepage-2023"], [class*=" icon-homepage-2023"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon-homepage-2023' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-homepage-2023Mobile-app-1:before {
+  content: "\e90b";
+}
+.icon-homepage-2023Accessory-App:before {
+  content: "\e903";
+}
+.icon-homepage-2023Browser-Extension:before {
+  content: "\e904";
+}
+.icon-homepage-2023Business_2:before {
+  content: "\e905";
+}
+.icon-homepage-2023Companion-App:before {
+  content: "\e906";
+}
+.icon-homepage-2023Drivers:before {
+  content: "\e907";
+}
+.icon-homepage-2023Embedded-Widget:before {
+  content: "\e908";
+}
+.icon-homepage-2023Extension-App:before {
+  content: "\e909";
+}
+.icon-homepage-2023External-API:before {
+  content: "\e90a";
+}
+.icon-homepage-2023Outlook-Add-in:before {
+  content: "\e90c";
+}
+.icon-homepage-2023Team:before {
+  content: "\e90d";
+}
+.icon-homepage-2023Web-Apps:before {
+  content: "\e90e";
+}
+.icon-homepage-2023ai:before {
+  content: "\e900";
+}
+.icon-homepage-2023technologies:before {
+  content: "\e901";
+}
+.icon-homepage-2023compliances:before {
+  content: "\e902";
+}
+
+@font-face {
+  font-family: 'icomoon-oneicon-2023';
+  src:  url('icomoon-oneicon-2023/icomoon-oneicon-202352b2.eot?5e11vp');
+  src:  url('icomoon-oneicon-2023/icomoon-oneicon-202352b2.eot?5e11vp#iefix') format('embedded-opentype'),
+    url('icomoon-oneicon-2023/icomoon-oneicon-202352b2.ttf?5e11vp') format('truetype'),
+    url('icomoon-oneicon-2023/icomoon-oneicon-202352b2.woff?5e11vp') format('woff'),
+    url('icomoon-oneicon-2023/icomoon-oneicon-202352b2.svg?5e11vp#icomoon-oneicon-2023') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-oneicon-2023"], [class*=" icon-oneicon-2023"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon-oneicon-2023' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-oneicon-2023web-apps:before {
+  content: "\e900";
+}

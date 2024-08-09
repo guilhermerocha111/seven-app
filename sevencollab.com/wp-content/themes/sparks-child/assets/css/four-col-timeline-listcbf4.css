@@ -1,0 +1,207 @@
+.fctl-list-title {
+	margin-bottom: 48px;
+	font-weight: 500;
+	font-size: 27px;
+	line-height: 32px;
+	text-align: center;
+	color: #05202B;
+}
+
+.fctl-list {
+	display: flex;
+}
+
+.fctl-list .fctl-item {
+	position: relative;
+	width: 25%;
+}
+
+.fctl-list .fctl-item.fctl-item-col-2 {
+	width: 50%;
+}
+
+.fctl-list .fctl-step {
+	background-size: contain;
+    background: url('../../../../uploads/2023/05/union.png');
+    background-repeat: no-repeat;
+    width: 94px;
+    height: 34px;
+}
+
+.fctl-list .fctl-step span {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 13px;
+	line-height: 13px;
+	letter-spacing: 0.7px;
+	color: #009ED5;
+    display: inline-block;
+    padding: 7px 0 0 15px;
+}
+
+.fctl-list .fctl-line {
+    display: block;
+    width: 22px;
+    height: 22px;
+    background-color: #009ED5;
+    border-radius: 50%;
+    margin-top: 4px;
+    margin-left: 1px;
+    margin-bottom: 32px;
+}
+
+.fctl-list .fctl-item:last-child .fctl-line:after {
+	display: none;
+}
+
+.fctl-list .fctl-line:after {
+    content: "";
+    position: absolute;
+    top: 49px;
+    left: 10px;
+    right: -10px;
+    height: 1px;
+    border-top: 1px solid #009ED5;
+    z-index: -1;
+}
+
+.fctl-list .fctl-title {
+	margin-bottom: 32px;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 26px;
+	color: #05202B;
+}
+
+.fctl-list ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.fctl-list ul li {
+    position: relative;
+    margin-bottom: 8px;
+    padding-left: 30px;
+    font-weight: 400;
+	font-size: 15px;
+	line-height: 22px;
+	color: #435E69;
+}
+
+.fctl-list ul li:last-child {
+	margin-bottom: 0;
+}
+
+.fctl-list ul li:before {
+	content: '';
+    position: absolute;
+    left: 0;
+    background-size: contain;
+    background: url('https://sevencollab.com/wp-content/uploads/2022/02/Ellipse-29.svg');
+    background-repeat: no-repeat;
+    width: 11px;
+    height: 11px;
+    top: 6px;
+}
+
+.fctl-list ul li.empty-li-item {
+	height: 22px;
+}
+
+.fctl-list ul li.empty-li-item:before {
+	display: none;
+}
+
+.fctl-list ul.fctl-second-level {
+	margin: 0 0 24px 48px;
+}
+
+.fctl-list .fctl-title-checked {
+    position: relative;
+    margin-bottom: 16px;
+    padding-left: 50px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #05202B;
+}
+
+.fctl-list .fctl-title-checked:before {
+	background: url(https://sevencollab.com/wp-content/uploads/2022/10/confident_48-1.svg);
+    width: 32px;
+    height: 32px;
+    content: '';
+    position: absolute;
+    top: 0px;
+    left: 3px;
+    background-size: contain;
+}
+
+@media screen and (max-width: 768px) {
+	.fctl-list .fctl-title {
+		font-size: 18px;
+	}
+
+	.fctl-list-title {
+		margin-bottom: 16px;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.fctl-list .fctl-line {
+		display: none;
+	}
+
+	.fctl-list {
+		flex-wrap: wrap;
+	}
+    
+	.fctl-list .fctl-item {
+		width: 50%;
+	}
+
+	.fctl-list .fctl-item:nth-child(3),
+	.fctl-list .fctl-item:nth-child(4) {
+		margin-top: 32px;
+	}
+
+	.fctl-list .fctl-step {
+		background: none;
+		width: auto;
+		height: auto;
+	}
+
+	.fctl-list .fctl-step span {
+		padding: 0;
+		font-weight: 500;
+		font-size: 14px;
+		margin-bottom: 12px;
+	}
+
+	.fctl-list .fctl-title {
+		margin-bottom: 16px;
+		font-size: 20px;
+	}
+
+	.fctl-list .fctl-item.fctl-item-col-2 {
+		width: 100%;
+	}
+
+	.fctl-list .fctl-item ul li.empty-li-item {
+	    height: 0;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.fctl-list .fctl-item {
+		width: 100%;
+	}
+
+	.fctl-list .fctl-item:nth-child(2),
+	.fctl-list .fctl-item:nth-child(3),
+	.fctl-list .fctl-item:nth-child(4) {
+		margin-top: 32px;
+	}
+}

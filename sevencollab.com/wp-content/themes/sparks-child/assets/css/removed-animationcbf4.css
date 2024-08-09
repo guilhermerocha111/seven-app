@@ -1,0 +1,16 @@
+.mkd-iwt {
+    opacity: 1;
+    -webkit-transform: none;
+    -moz-transform: none
+    transform: none;
+    transition: none;
+    -webkit-transition: none;
+    -moz-transition: none;
+}
+
+.mkd-iwt.mkd-iwt-appeared {
+    opacity: 1;
+    -webkit-transform: none;
+    -moz-transform: none;
+    transform: none;
+}
