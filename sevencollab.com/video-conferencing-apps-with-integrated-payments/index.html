@@ -1856,8 +1856,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<nav class="mkd-main-menu mkd-drop-down mkd-sticky-nav">
 		<ul id="menu-menu-1" class="clearfix"><li id="sticky-nav-menu-item-21253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="javascript:void(0)" class=""><span class="item_outer"><span class="item_inner"><span class="item_text">Download</span><span class="menu_icon_wrapper"> </span></span><span class="plus"></span></span></a>
 			<div class="second " ><div class="inner"><ul>
-	<li id="nav-menu-item-26117" class="menu-item menu-item-type-post_type menu-item-object-page download-item" style="width:180px;height: 40px; line-height: 35px;">   For Windows </li>
-	<li id="nav-menu-item-26117" class="menu-item menu-item-type-post_type menu-item-object-page download-item" style="width:180px;height: 40px; line-height: 35px;">  For Mac </li>
+	<li id="nav-menu-item-26117" class="menu-item menu-item-type-post_type menu-item-object-page download-item" style="width:180px;height: 40px; line-height: 35px;">  Windows </li>
+	<li id="nav-menu-item-26117" class="menu-item menu-item-type-post_type menu-item-object-page download-item" style="width:180px;height: 40px; line-height: 35px;"> Mac </li>
 	 </ul></div></div>
 </li>
  </ul>	</nav>
@@ -3489,14 +3489,21 @@ lsjQuery("#layerslider_12").layerSlider({createdWith: '6.6.1', sliderVersion: '6
 	</style>
 	<style>
 		.item_text {
-			color: #585858;
 			font-family: Rubik;
-			font-weight: 400;
+			font-weight: 500;
+			color: #05202B;
+			font-size: 18px;
+			line-height: 21px;
 		}
-
+		#nav-menu-item-26117 {
+			color: #05202B;
+		}
 		#nav-menu-item-26117:hover {
-			background-color: #c01d3d;
+			background-color: #454f67;
 			color: white !important;
+			transition-duration: .5s;
+     		transition: background-color .5s;
+     		transition-timing-function: cubic-bezier(.645,.045,.355,1);
 		}
 
 		.mkd-drop-down .second .inner > ul,
@@ -3504,8 +3511,18 @@ lsjQuery("#layerslider_12").layerSlider({createdWith: '6.6.1', sliderVersion: '6
 			border: 0;
 			padding: 0px 0;
 		}
-		.inner > ul > li {
+		.inner {
+			border: 1px solid #ebebeb;
+			border-radius: 12px;
+			box-shadow: 0 22.6103px 26.228px rgba(0, 15, 37, .046), 0 9.39116px 10.8938px rgba(0, 57, 144, .035), 0 3.3966px 3.94006px rgba(0, 57, 144, .024);
+			box-sizing: border-box;
+		}
+
+		.inner>.right, .inner > ul > li {
 			text-align: center;
+			color: #fff;
+			cursor: pointer;
+			border-radius: 6px;
 		}
 
 		.mkd-mobile-opener-icon-holder {
@@ -3526,6 +3543,8 @@ lsjQuery("#layerslider_12").layerSlider({createdWith: '6.6.1', sliderVersion: '6
 			box-shadow: 0px 5px 7px #ccc;
 			padding-bottom: 5px;
 		}
+
+
 	</style>
 	<link rel='stylesheet' id='sg_animate-css'  href='../wp-content/plugins/popup-builder/style/animatecbf4.css?ver=4.9.4' type='text/css' media='all' />
 <link rel='stylesheet' id='sg_colorbox_theme-css'  href='../wp-content/plugins/popup-builder/style/sgcolorbox/sgthemesee6c.css?ver=2.674' type='text/css' media='all' />
